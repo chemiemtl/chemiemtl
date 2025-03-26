@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: '/chemiemtl'
 permalink: pretty
 title: 'Jekyll Serif'
 
@@ -31,6 +31,12 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
