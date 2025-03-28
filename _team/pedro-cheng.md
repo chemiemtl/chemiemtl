@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Pedro has vast experience in the aluminum and coating industry, 
+Pedro has vast experience in the aluminum and coating industry. 
