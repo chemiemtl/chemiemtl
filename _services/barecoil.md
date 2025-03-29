@@ -6,8 +6,8 @@ weight: 1
 
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
-![Aluminum Bare Coil](/images/aluminum_coil.jpg)
+![Aluminum Bare Coil]({{ '/images/aluminum_coil.jpg' | relative_url }})
 
 ---
 
-![Alloy Style](/images/alloy_style.JPG)
+![Alloy Style]({{ '/images/alloy_style.JPG' | relative_url }})
