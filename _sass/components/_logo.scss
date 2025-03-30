@@ -13,17 +13,19 @@
   }
 }
 .logo-mobile {
-  width: auto; /* Let the width adjust automatically */
-  height: 32px; /* Match the desktop height */
-  max-width: 240px; /* Ensure it doesn't exceed the desktop width */
   display: block;
-  margin: 0 auto; /* Center the logo */
-}
-
-@media (max-width: 768px) {
-  .logo-mobile {
-    width: 100%; /* Scale to fit smaller screens */
-    max-width: 240px; /* Keep the same proportions as the desktop logo */
-    height: auto; /* Maintain aspect ratio */
+  width: 40px;
+  padding: 10px 0 10px 0;
+  @include media-breakpoint-up(sm) {
+    display: none;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
+  a {
+    display: block;
+    width: 100%;
+    height: 100%;
   }
 }

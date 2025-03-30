@@ -3,9 +3,9 @@ permalink: pretty
 title: 'Chemie Material Ltd.'
 
 logo:
-  mobile: "images/logo/logo.jpg"
+  mobile: "images/logo/logo-mobile.jpg"
   mobile_height: "32px"
-  mobile_width: "240px"
+  mobile_width: "32px"
   desktop: "images/logo/logo.jpg"
   desktop_height: "32px"
   desktop_width: "240px"
