@@ -8,4 +8,4 @@ promoted: true
 weight: 2
 ---
 
-Daniel Shen acts as your local contact for any business inquiries or support service.
+Daniel is an experienced IT professional and sales account manager. He is your regional contact for any business inquiries and/or any supporting service.
