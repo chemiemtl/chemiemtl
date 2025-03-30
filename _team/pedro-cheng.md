@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Pedro has vast experience in the resin, adhesive, lacquer & metal packaing over the past 20 years in the industry.
+Pedro has vast experience in the resin, adhesive, lacquer & metal packaging over the past 20 years in the industry.
