@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 ---
 
 # Aluminum
-Chemie material ltd. has over 15 years experience working with the largest aluminum manufacturing plant in Taiwan providing top quality aluminum coating coil / bare coil / food coil / NBPA coating coil for EOE/can body.
+Chemie Material Ltd. has over 15 years experience working with the largest aluminum manufacturing plant in Taiwan providing top quality aluminum coating coil / bare coil / food coil / NBPA coating coil for EOE/can body.
 
 ---
 
