@@ -3,7 +3,7 @@ title: "Daniel Shen"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/daniel-shen-unsplash.jpg"
 jobtitle: "Regional Sales Representative (Canada)"
-linkedinurl: "www.linkedin.com/in/dinfinity"
+linkedinurl: "https://www.linkedin.com/in/dinfinity"
 promoted: true
 weight: 2
 ---
