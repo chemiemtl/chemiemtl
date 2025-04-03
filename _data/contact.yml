@@ -1,9 +1,9 @@
 contacts:
   - location: "Ottawa, Ontario, Canada"
     phone: "+1-613-700-5598"
-    email: "dshen@pipsc.ca"
+    email: "sales@chemiemtl.com"
   - location: "Kaohsiung, Taiwan"
     phone: "+886-928-090-009"
-    email: "kaohsiung@example.com"
+    email: "sales@chemiemtl.com"
 
 contact_button_link: 'contact'
