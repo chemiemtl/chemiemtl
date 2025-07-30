@@ -36,17 +36,17 @@ weight: 1
     </tr>
     <tr>
       <td>Zinc anode</td>
-      <td></td>
+      <td>CAC Spec</td>
       <td>ZNA1</td>
     </tr>
     <tr>
       <td>Zinc ingot for die-casting</td>
-      <td></td>
+      <td>CAC Spec</td>
       <td>ZAD2, ZAD3, ZAD3M, ZAD5M, ZAD8, ZAD12, ZAD27, ZAD4</td>
     </tr>
     <tr>
       <td>Zinc ingot for galvanizing</td>
-      <td></td>
+      <td>CAC Spec</td>
       <td>ZNJ1, ZNJ3, ZNJ5, ZNJ7, ZNJ4, ZNJ50</td>
     </tr>
     <tr>
