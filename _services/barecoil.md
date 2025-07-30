@@ -18,48 +18,41 @@ weight: 1
       <td>Sand mode, shell mode & metal mode.</td>
       <td>JIS H5202</td>
       <td>AC2A, AC2B, AC3A, AC4B, AC4C, AC7A, AC7B, AC8A, AC8B</td>
-      <td>F</td>
+      <td rowspan="8" style="text-align:center; vertical-align:middle;">F</td>
     </tr>
     <tr>
       <td>Die-casting</td>
       <td>JIS H5302</td>
       <td>ADC1, ADC3, ADC6, ADC10, ADC10Z, ADC12</td>
-      <td></td>
     </tr>
     <tr>
       <td rowspan="2">Sand mode & permanent mode.</td>
       <td>ASTM B179</td>
       <td>A356.2, A357.2, A380.2, A413.2, A520.2</td>
-      <td></td>
     </tr>
     <tr>
       <td>CAC Spec</td>
       <td>A356.2</td>
-      <td></td>
     </tr>
     <tr>
       <td>Zinc anode</td>
       <td></td>
       <td>ZNA1</td>
-      <td></td>
     </tr>
     <tr>
       <td>Zinc ingot for die-casting</td>
       <td></td>
       <td>ZAD2, ZAD3, ZAD3M, ZAD5M, ZAD8, ZAD12, ZAD27, ZAD4</td>
-      <td></td>
     </tr>
     <tr>
       <td>Zinc ingot for galvanizing</td>
       <td></td>
       <td>ZNJ1, ZNJ3, ZNJ5, ZNJ7, ZNJ4, ZNJ50</td>
-      <td></td>
     </tr>
     <tr>
       <td>Aluminum anode</td>
       <td>DNV-RPB401</td>
       <td>Al-Zn-In Series</td>
-      <td></td>
     </tr>
   </tbody>
 </table>
