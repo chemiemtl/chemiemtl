@@ -26,6 +26,30 @@ $footer-text-color: $white;
 $sub-footer-background-color: darken($primary, 10%);
 $sub-footer-text-color: $white;
 
+// Table
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2em;
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid #ccc; /* Table cell border */
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.custom-table thead th {
+  background-color: #16a082; /* Example: site theme red, change to your theme color */
+  color: #fff;
+  font-weight: bold;
+}
+
+.custom-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9; /* Optional: zebra striping */
+}
+
+
 // Bootstrap 5.3.2
 
 // 1. Include Bootstrap functions first
