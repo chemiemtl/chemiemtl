@@ -15,7 +15,7 @@ weight: 1
   </thead>
   <tbody>
     <tr>
-      <td>Sand mode, shell mode & metal mode</td>
+      <td>Sand mode, shell mode & metal mode.</td>
       <td>JIS H5202</td>
       <td>AC2A, AC2B, AC3A, AC4B, AC4C, AC7A, AC7B, AC8A, AC8B</td>
       <td>F</td>
@@ -27,13 +27,12 @@ weight: 1
       <td></td>
     </tr>
     <tr>
-      <td>Sand mode & permanent mode</td>
+      <td rowspan="2">Sand mode & permanent mode.</td>
       <td>ASTM B179</td>
       <td>A356.2, A357.2, A380.2, A413.2, A520.2</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>CAC Spec</td>
       <td>A356.2</td>
       <td></td>
