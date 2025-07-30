@@ -4,6 +4,8 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
+Detail specification for variety of casting ware.
+
 <table class="custom-table">
   <thead>
     <tr>
