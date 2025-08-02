@@ -59,6 +59,8 @@ Full table description on the specification details.
   </tbody>
 </table>
 
+<hr>
+
 ## 2. Foil And Fin-Stock
 
 ### 2.1 Foil
@@ -133,6 +135,157 @@ Full table description on the specification details.
     </tr>
   </tbody>
 </table>
+
+## 2.2 Fin-Stock (CAC Specification)
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Application</th>
+      <th>Alloy</th>
+      <th>Temper</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Internal Diameter (mm)</th>
+      <th>Max. Outside Diameter (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Fin-stock -->
+    <tr>
+      <td rowspan="5">Fin-stock</td>
+      <td>1050</td>
+      <td>O, H22, H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>100≦W≦1630</td>
+      <td>150, 200, 305</td>
+      <td>1190</td>
+      <td rowspan="2">Chemical composition same as AA or JIS spec.</td>
+    </tr>
+    <tr>
+      <td>1100</td>
+      <td></td>
+      <td></td>
+      <td>300≦W≦1630</td>
+      <td>508</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1200</td>
+      <td>H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>100≦W≦1630</td>
+      <td>150, 200, 305</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1200</td>
+      <td>H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>300≦W≦1630</td>
+      <td>508</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1300</td>
+      <td>H26</td>
+      <td>0.090≦T≦0.30</td>
+      <td>100≦W≦1630</td>
+      <td>150, 200, 305</td>
+      <td>CAC spec.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3102</td>
+      <td></td>
+      <td>0.095≦T≦0.30</td>
+      <td>300≦W≦1630</td>
+      <td>508</td>
+      <td>CAC spec.</td>
+      <td></td>
+    </tr>
+    <!-- Pre-coated fin-stock -->
+    <tr>
+      <td rowspan="6">Pre-coated fin-stock※</td>
+      <td>1050</td>
+      <td>O, H22, H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>100≦W≦1390</td>
+      <td>150, 200, 305</td>
+      <td>1190</td>
+      <td rowspan="2">Chemical composition same as AA or JIS spec.</td>
+    </tr>
+    <tr>
+      <td>1050</td>
+      <td>O, H22, H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>300≦W≦1390</td>
+      <td>508</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1100</td>
+      <td>O, H22, H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>100≦W≦1390</td>
+      <td>150, 200, 305</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1100</td>
+      <td>O, H22, H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>300≦W≦1390</td>
+      <td>508</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1200</td>
+      <td>H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>100≦W≦1390</td>
+      <td>150, 200, 305</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1200</td>
+      <td>H24</td>
+      <td>0.095≦T≦0.30</td>
+      <td>300≦W≦1390</td>
+      <td>508</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1300</td>
+      <td>H26</td>
+      <td>0.090≦T≦0.30</td>
+      <td>100≦W≦1390</td>
+      <td>150, 200, 305</td>
+      <td>CAC spec.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3102</td>
+      <td></td>
+      <td>0.095≦T≦0.30</td>
+      <td>300≦W≦1390</td>
+      <td>508</td>
+      <td>CAC spec.</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+※ Pre-coated layers with high hydrophilic, corrosion resistance.
+
+<hr>
 
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
