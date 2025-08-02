@@ -6,8 +6,6 @@ weight: 1
 
 Full table description on the specification details.
 
-...existing code...
-
 ## 1. Casting Ware
 
 <table class="custom-table">
@@ -78,35 +76,55 @@ Full table description on the specification details.
     </tr>
   </thead>
   <tbody>
+    <!-- Single side bright -->
     <tr>
-      <td>Single side bright</td>
-      <td>JIS 1N30-O, H18<br>AA 1235-O, H19<br>JIS 8079-O</td>
-      <td>5.9≦T≦50</td>
-      <td>390≦W≦1550</td>
-      <td>76<br>150</td>
-      <td>500<br>700</td>
+      <td rowspan="2">Single side bright</td>
+      <td rowspan="2">JIS 1N30-O, H18<br>AA 1235-O, H19<br>JIS 8079-O</td>
+      <td rowspan="2">5.9≦T≦50</td>
+      <td rowspan="2">390≦W≦1550</td>
+      <td>76</td>
+      <td>500</td>
       <td></td>
     </tr>
     <tr>
-      <td>Double side bright</td>
-      <td>JIS 1N30-H18<br>AA 1235-F</td>
-      <td>12≦T≦50</td>
-      <td>280≦W≦1290</td>
-      <td>76<br>150</td>
-      <td>500<br>700</td>
+      <td>150</td>
+      <td>700</td>
       <td></td>
     </tr>
+    <!-- Double side bright -->
     <tr>
       <td rowspan="2">Double side bright</td>
-      <td>JIS 1N30-O, H18<br>JIS 1050-O, H18<br>JIS 1100-O, H18<br>JIS 3003-H18<br>AA 1235-O, H19</td>
-      <td>50＜T＜120</td>
-      <td>50≦W≦1630</td>
-      <td>76<br>150</td>
-      <td>600<br>1000</td>
+      <td rowspan="2">JIS 1N30-H18<br>AA 1235-F</td>
+      <td rowspan="2">12≦T≦50</td>
+      <td rowspan="2">280≦W≦1290</td>
+      <td>76</td>
+      <td>500</td>
       <td></td>
     </tr>
     <tr>
+      <td>150</td>
+      <td>700</td>
       <td></td>
+    </tr>
+    <!-- Double side bright (multiple alloys) -->
+    <tr>
+      <td rowspan="2">Double side bright</td>
+      <td rowspan="2">JIS 1N30-O, H18<br>JIS 1050-O, H18<br>JIS 1100-O, H18<br>JIS 3003-H18<br>AA 1235-O, H19</td>
+      <td rowspan="2">50＜T＜120</td>
+      <td rowspan="2">50≦W≦1630</td>
+      <td>76</td>
+      <td>600</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>1000</td>
+      <td></td>
+    </tr>
+    <!-- Double side bright (thicker) -->
+    <tr>
+      <td>Double side bright</td>
+      <td>JIS 1N30-O, H18<br>JIS 1050-O, H18<br>JIS 1100-O, H18<br>JIS 3003-H18<br>AA 1235-O, H19</td>
       <td>120≦T≦150</td>
       <td>50≦W≦1630</td>
       <td>150,200,305,508</td>
