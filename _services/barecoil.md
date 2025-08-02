@@ -1,10 +1,14 @@
 ---
-title: "Casting Ware"
+title: "Specification Details"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Detail specification for variety of casting ware.
+Full table description on the specification details.
+
+...existing code...
+
+## 1. Casting Ware
 
 <table class="custom-table">
   <thead>
@@ -53,6 +57,61 @@ Detail specification for variety of casting ware.
       <td>Aluminum anode</td>
       <td style="text-align:center; vertical-align:middle;">DNV-RPB401</td>
       <td>Al-Zn-In Series</td>
+    </tr>
+  </tbody>
+</table>
+
+## 2. Foil And Fin-Stock
+
+### 2.1 Foil
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Application</th>
+      <th>Specification, Alloy & Temper</th>
+      <th>Thickness (μm)</th>
+      <th>Width (mm)</th>
+      <th>Internal Diameter (mm)</th>
+      <th>Max. Outside Diameter (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Single side bright</td>
+      <td>JIS 1N30-O, H18<br>AA 1235-O, H19<br>JIS 8079-O</td>
+      <td>5.9≦T≦50</td>
+      <td>390≦W≦1550</td>
+      <td>76<br>150</td>
+      <td>500<br>700</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Double side bright</td>
+      <td>JIS 1N30-H18<br>AA 1235-F</td>
+      <td>12≦T≦50</td>
+      <td>280≦W≦1290</td>
+      <td>76<br>150</td>
+      <td>500<br>700</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Double side bright</td>
+      <td>JIS 1N30-O, H18<br>JIS 1050-O, H18<br>JIS 1100-O, H18<br>JIS 3003-H18<br>AA 1235-O, H19</td>
+      <td>50＜T＜120</td>
+      <td>50≦W≦1630</td>
+      <td>76<br>150</td>
+      <td>600<br>1000</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>120≦T≦150</td>
+      <td>50≦W≦1630</td>
+      <td>150,200,305,508</td>
+      <td>1190</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
