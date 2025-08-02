@@ -260,23 +260,23 @@ Full table description on the specification details.
       <td></td>
     </tr>
     <tr>
-      <td>1300</td>
-      <td>H26</td>
-      <td>0.090≦T≦0.30</td>
-      <td>100≦W≦1390</td>
-      <td>150, 200, 305</td>
-      <td></td>
-      <td>CAC spec.</td>
-    </tr>
-    <tr>
-      <td>3102</td>
-      <td></td>
-      <td>0.095≦T≦0.30</td>
-      <td>300≦W≦1390</td>
-      <td>508</td>
-      <td></td>
-      <td>CAC spec.</td>
-    </tr>
+    <td>1300</td>
+    <td>H26</td>
+    <td>0.090≦T≦0.30</td>
+    <td>100≦W≦1390</td>
+    <td>150, 200, 305</td>
+    <td></td>
+    <td>CAC spec.</td>
+  </tr>
+  <tr>
+    <td>3102</td>
+    <td></td>
+    <td>0.095≦T≦0.30</td>
+    <td>300≦W≦1390</td>
+    <td>508</td>
+    <td></td>
+    <td>CAC spec.</td>
+  </tr>
   </tbody>
 </table>
 
