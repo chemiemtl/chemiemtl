@@ -160,7 +160,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
-      <td>1190</td>
+      <td rowspan="1" style="text-align:center; vertical-align:middle;">1190</td>
       <td rowspan="2">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
-      <td></td>
+      <td rowspan="2" style="text-align:center; vertical-align:middle;">1190</td>
       <td></td>
     </tr>
     <tr>
@@ -187,7 +187,6 @@ Full table description on the specification details.
       <td>300≦W≦1630</td>
       <td>508</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>1300</td>
@@ -195,8 +194,8 @@ Full table description on the specification details.
       <td>0.090≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
+      <td rowspan="1" style="text-align:center; vertical-align:middle;">1190</td>
       <td>CAC spec.</td>
-      <td></td>
     </tr>
     <tr>
       <td>3102</td>
@@ -215,7 +214,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td>1190</td>
+      <td rowspan="2" style="text-align:center; vertical-align:middle;">1190</td>
       <td rowspan="2">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
@@ -232,7 +231,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td></td>
+      <td rowspan="2" style="text-align:center; vertical-align:middle;">1190</td>
       <td></td>
     </tr>
     <tr>
@@ -242,7 +241,6 @@ Full table description on the specification details.
       <td>300≦W≦1390</td>
       <td>508</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>1200</td>
@@ -250,7 +248,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td></td>
+      <td rowspan="2" style="text-align:center; vertical-align:middle;">1190</td>
       <td></td>
     </tr>
     <tr>
@@ -260,7 +258,6 @@ Full table description on the specification details.
       <td>300≦W≦1390</td>
       <td>508</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>1300</td>
@@ -268,8 +265,8 @@ Full table description on the specification details.
       <td>0.090≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
+      <td rowspan="1" style="text-align:center; vertical-align:middle;">1190</td>
       <td>CAC spec.</td>
-      <td></td>
     </tr>
     <tr>
       <td>3102</td>
