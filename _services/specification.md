@@ -169,6 +169,7 @@ Full table description on the specification details.
       <td></td>
       <td>300≦W≦1630</td>
       <td>508</td>
+      <td></td>
     </tr>
     <tr>
       <td>1200</td>
@@ -222,6 +223,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>300≦W≦1390</td>
       <td>508</td>
+      <td></td>
     </tr>
     <tr>
       <td>1100</td>
