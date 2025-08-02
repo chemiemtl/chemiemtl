@@ -152,16 +152,16 @@ Full table description on the specification details.
     </tr>
   </thead>
   <tbody>
-    <!-- Fin-stock -->
+    <!-- Fin-stock group -->
     <tr>
-      <td rowspan="5">Fin-stock</td>
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">Fin-stock</td>
       <td>1050</td>
       <td>O, H22, H24</td>
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
-      <td rowspan="1" style="text-align:center; vertical-align:middle;">1190</td>
-      <td rowspan="2">Chemical composition same as AA or JIS spec.</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
       <td>1100</td>
@@ -169,7 +169,6 @@ Full table description on the specification details.
       <td></td>
       <td>300≦W≦1630</td>
       <td>508</td>
-      <td></td>
     </tr>
     <tr>
       <td>1200</td>
@@ -177,7 +176,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
-      <td rowspan="2" style="text-align:center; vertical-align:middle;">1190</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
       <td></td>
     </tr>
     <tr>
@@ -194,7 +193,7 @@ Full table description on the specification details.
       <td>0.090≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
-      <td rowspan="1" style="text-align:center; vertical-align:middle;">1190</td>
+      <td></td>
       <td>CAC spec.</td>
     </tr>
     <tr>
@@ -203,19 +202,19 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>300≦W≦1630</td>
       <td>508</td>
-      <td>CAC spec.</td>
       <td></td>
+      <td>CAC spec.</td>
     </tr>
-    <!-- Pre-coated fin-stock -->
+    <!-- Pre-coated fin-stock group -->
     <tr>
-      <td rowspan="6">Pre-coated fin-stock※</td>
+      <td rowspan="7" style="vertical-align:middle; text-align:center;">Pre-coated fin-stock※</td>
       <td>1050</td>
       <td>O, H22, H24</td>
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td rowspan="2" style="text-align:center; vertical-align:middle;">1190</td>
-      <td rowspan="2">Chemical composition same as AA or JIS spec.</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
       <td>1050</td>
@@ -223,7 +222,6 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>300≦W≦1390</td>
       <td>508</td>
-      <td></td>
     </tr>
     <tr>
       <td>1100</td>
@@ -231,7 +229,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td rowspan="2" style="text-align:center; vertical-align:middle;">1190</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
       <td></td>
     </tr>
     <tr>
@@ -248,7 +246,7 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td rowspan="2" style="text-align:center; vertical-align:middle;">1190</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
       <td></td>
     </tr>
     <tr>
@@ -265,7 +263,7 @@ Full table description on the specification details.
       <td>0.090≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td rowspan="1" style="text-align:center; vertical-align:middle;">1190</td>
+      <td></td>
       <td>CAC spec.</td>
     </tr>
     <tr>
@@ -274,8 +272,8 @@ Full table description on the specification details.
       <td>0.095≦T≦0.30</td>
       <td>300≦W≦1390</td>
       <td>508</td>
-      <td>CAC spec.</td>
       <td></td>
+      <td>CAC spec.</td>
     </tr>
   </tbody>
 </table>
