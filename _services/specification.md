@@ -175,7 +175,6 @@ Full table description on the specification details.
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
-      <td></td>
     </tr>
     <tr>
       <td>300≦W≦1630</td>
@@ -187,6 +186,7 @@ Full table description on the specification details.
       <td>0.090≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">CAC spec.</td>
     </tr>
     <tr>
       <td>3102</td>
@@ -196,13 +196,13 @@ Full table description on the specification details.
     </tr>
     <!-- Pre-coated fin-stock group -->
     <tr>
-      <td rowspan="7" style="vertical-align:middle; text-align:center;">Pre-coated fin-stock※</td>
-      <td>1050</td>
+      <td rowspan="8" style="vertical-align:middle; text-align:center;">Pre-coated fin-stock※</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1050</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">O, H22, H24</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
+      <td rowspan="8" style="vertical-align:middle; text-align:center;">1190</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
