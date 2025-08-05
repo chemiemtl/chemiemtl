@@ -165,11 +165,8 @@ Full table description on the specification details.
     </tr>
     <tr>
       <td>1100</td>
-      <td></td>
-      <td></td>
       <td>300≦W≦1630</td>
       <td>508</td>
-      <td></td>
     </tr>
     <tr>
       <td>1200</td>
