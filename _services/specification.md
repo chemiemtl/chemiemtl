@@ -284,6 +284,63 @@ Full table description on the specification details.
 
 <hr>
 
+<table class="custom-table" style="width:100%;">
+  <tr>
+    <th>Application</th>
+    <th>Specification</th>
+    <th>Alloy</th>
+    <th>Temper</th>
+  </tr>
+  <tr>
+    <td>Sand mode, shell mode & metal mode</td>
+    <td>JIS H5202</td>
+    <td>AC2A, AC2B, AC3A, AC4B, AC4C, AC7A, AC7B, AC8A, AC8B</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>Die-casting</td>
+    <td>JIS H5302</td>
+    <td>ADC1, ADC3, ADC6, ADC10, ADC10Z, ADC12</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sand mode & permanent mode</td>
+    <td>ASTM B179</td>
+    <td>A356.2, A357.2, A380.2, A413.2, A520.2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CAC Spec</td>
+    <td></td>
+    <td>A356.2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Zinc anode</td>
+    <td></td>
+    <td>ZNA1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Zinc ingot for die-casting</td>
+    <td></td>
+    <td>ZAD2, ZAD3, ZAD3M, ZAD5M, ZAD8, ZAD12, ZAD27, ZAD4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Zinc ingot for galvanizing</td>
+    <td></td>
+    <td>ZNJ1, ZNJ3, ZNJ5, ZNJ7, ZNJ4, ZNJ50</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aluminum anode</td>
+    <td>DNV-RP-B401</td>
+    <td>Al-Zn-In Series</td>
+    <td></td>
+  </tr>
+</table>
+
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
