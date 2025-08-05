@@ -202,7 +202,7 @@ Full table description on the specification details.
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
       <td rowspan="8" style="vertical-align:middle; text-align:center;">1190</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
       <td>300≦W≦1390</td>
