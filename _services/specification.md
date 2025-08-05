@@ -210,55 +210,42 @@ Full table description on the specification details.
       <td>508</td>
     </tr>
     <tr>
-      <td>1100</td>
-      <td>O, H22, H24</td>
-      <td>0.095≦T≦0.30</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1100</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">O, H22, H24</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
-      <td></td>
     </tr>
     <tr>
-      <td>1100</td>
-      <td>O, H22, H24</td>
-      <td>0.095≦T≦0.30</td>
       <td>300≦W≦1390</td>
       <td>508</td>
-      <td></td>
     </tr>
     <!-- Merge Alloy 1200 and Temper H24 cells -->
     <tr>
-      <td rowspan="2">1200</td>
-      <td rowspan="2">H24</td>
-      <td>0.095≦T≦0.30</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1200</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">H24</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
-      <td></td>
     </tr>
     <tr>
-      <td>0.095≦T≦0.30</td>
       <td>300≦W≦1390</td>
       <td>508</td>
-      <td></td>
     </tr>
     <tr>
       <td>1300</td>
-      <td>H26</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">H26</td>
       <td>0.090≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
       <td></td>
-      <td>CAC spec.</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">CAC spec.</td>
     </tr>
     <tr>
       <td>3102</td>
-      <td></td>
       <td>0.095≦T≦0.30</td>
       <td>300≦W≦1390</td>
       <td>508</td>
-      <td></td>
-      <td>CAC spec.</td>
     </tr>
   </tbody>
 </table>
