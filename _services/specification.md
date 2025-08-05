@@ -291,7 +291,7 @@ Full table description on the specification details.
       <td>600</td>
       <td></td>
     </tr>
-      <tr><!-- Exhaust pipe for kitchen -->
+    <tr><!-- Exhaust pipe for kitchen -->
       <td>Exhaust pipe for kitchen</td>
       <td>1200</td>
       <td>O</td>
@@ -299,6 +299,16 @@ Full table description on the specification details.
       <td>83</td>
       <td>150</td>
       <td>600</td>
+      <td></td>
+    </tr>
+    <tr><!-- Cable shielding -->
+      <td>Cable shielding</td>
+      <td>1N30</td>
+      <td>O</td>
+      <td>0.20≦T≦0.30</td>
+      <td>950≦T≦1050</td>
+      <td>150, 200, 305, 508</td>
+      <td>1190</td>
       <td></td>
     </tr>
   </tbody>
