@@ -19,42 +19,42 @@ Full table description on the specification details.
   </thead>
   <tbody>
     <tr>
-      <td>Sand mode, shell mode & metal mode.</td>
+      <td  style="vertical-align:middle; text-align:center;">Sand mode, shell mode & metal mode.</td>
       <td style="text-align:center; vertical-align:middle;">JIS H5202</td>
-      <td>AC2A, AC2B, AC3A, AC4B, AC4C, AC7A, AC7B, AC8A, AC8B</td>
+      <td  style="vertical-align:middle; text-align:center;">AC2A, AC2B, AC3A, AC4B, AC4C, AC7A, AC7B, AC8A, AC8B</td>
       <td rowspan="8" style="text-align:center; vertical-align:middle;">F</td>
     </tr>
     <tr>
-      <td>Die-casting</td>
+      <td  style="vertical-align:middle; text-align:center;">Die-casting</td>
       <td style="text-align:center; vertical-align:middle;">JIS H5302</td>
-      <td>ADC1, ADC3, ADC6, ADC10, ADC10Z, ADC12</td>
+      <td  style="vertical-align:middle; text-align:center;">ADC1, ADC3, ADC6, ADC10, ADC10Z, ADC12</td>
     </tr>
     <tr>
       <td rowspan="2">Sand mode & permanent mode.</td>
       <td style="text-align:center; vertical-align:middle;">ASTM B179</td>
-      <td>A356.2, A357.2, A380.2, A413.2, A520.2</td>
+      <td  style="vertical-align:middle; text-align:center;">A356.2, A357.2, A380.2, A413.2, A520.2</td>
     </tr>
     <tr>
       <td style="text-align:center; vertical-align:middle;">CAC Spec</td>
-      <td>A356.2</td>
+      <td  style="vertical-align:middle; text-align:center;">A356.2</td>
     </tr>
     <tr>
-      <td>Zinc anode</td>
+      <td  style="vertical-align:middle; text-align:center;">Zinc anode</td>
       <td rowspan="3" style="text-align:center; vertical-align:middle;">CAC Spec</td>
-      <td>ZNA1</td>
+      <td  style="vertical-align:middle; text-align:center;">ZNA1</td>
     </tr>
     <tr>
-      <td>Zinc ingot for die-casting</td>
-      <td>ZAD2, ZAD3, ZAD3M, ZAD5M, ZAD8, ZAD12, ZAD27, ZAD4</td>
+      <td  style="vertical-align:middle; text-align:center;">Zinc ingot for die-casting</td>
+      <td  style="vertical-align:middle; text-align:center;">ZAD2, ZAD3, ZAD3M, ZAD5M, ZAD8, ZAD12, ZAD27, ZAD4</td>
     </tr>
     <tr>
-      <td>Zinc ingot for galvanizing</td>
-      <td>ZNJ1, ZNJ3, ZNJ5, ZNJ7, ZNJ4, ZNJ50</td>
+      <td  style="vertical-align:middle; text-align:center;">Zinc ingot for galvanizing</td>
+      <td  style="vertical-align:middle; text-align:center;">ZNJ1, ZNJ3, ZNJ5, ZNJ7, ZNJ4, ZNJ50</td>
     </tr>
     <tr>
-      <td>Aluminum anode</td>
+      <td  style="vertical-align:middle; text-align:center;">Aluminum anode</td>
       <td style="text-align:center; vertical-align:middle;">DNV-RPB401</td>
-      <td>Al-Zn-In Series</td>
+      <td  style="vertical-align:middle; text-align:center;">Al-Zn-In Series</td>
     </tr>
   </tbody>
 </table>
@@ -84,14 +84,14 @@ Full table description on the specification details.
       <td rowspan="2">JIS 1N30-O, H18<br>AA 1235-O, H19<br>JIS 8079-O</td>
       <td rowspan="2">5.9≦T≦50</td>
       <td rowspan="2">390≦W≦1550</td>
-      <td>76</td>
-      <td>500</td>
-      <td></td>
+      <td  style="vertical-align:middle; text-align:center;">76</td>
+      <td  style="vertical-align:middle; text-align:center;">500</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
-      <td>150</td>
-      <td>700</td>
-      <td></td>
+      <td  style="vertical-align:middle; text-align:center;">150</td>
+      <td  style="vertical-align:middle; text-align:center;">700</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <!-- Double side bright -->
     <tr>
@@ -99,14 +99,14 @@ Full table description on the specification details.
       <td rowspan="2">JIS 1N30-H18<br>AA 1235-F</td>
       <td rowspan="2">12≦T≦50</td>
       <td rowspan="2">280≦W≦1290</td>
-      <td>76</td>
-      <td>500</td>
-      <td></td>
+      <td  style="vertical-align:middle; text-align:center;">76</td>
+      <td  style="vertical-align:middle; text-align:center;">500</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
-      <td>150</td>
-      <td>700</td>
-      <td></td>
+      <td  style="vertical-align:middle; text-align:center;">150</td>
+      <td  style="vertical-align:middle; text-align:center;">700</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <!-- Double side bright (multiple alloys) -->
     <tr>
@@ -114,24 +114,24 @@ Full table description on the specification details.
       <td rowspan="2">JIS 1N30-O, H18<br>JIS 1050-O, H18<br>JIS 1100-O, H18<br>JIS 3003-H18<br>AA 1235-O, H19</td>
       <td rowspan="2">50＜T＜120</td>
       <td rowspan="2">50≦W≦1630</td>
-      <td>76</td>
-      <td>600</td>
-      <td></td>
+      <td  style="vertical-align:middle; text-align:center;">76</td>
+      <td  style="vertical-align:middle; text-align:center;">600</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
-      <td>150</td>
-      <td>1000</td>
-      <td></td>
+      <td  style="vertical-align:middle; text-align:center;">150</td>
+      <td  style="vertical-align:middle; text-align:center;">1000</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <!-- Double side bright (thicker) -->
     <tr>
-      <td>Double side bright</td>
-      <td>JIS 1N30-O, H18<br>JIS 1050-O, H18<br>JIS 1100-O, H18<br>JIS 3003-H18<br>AA 1235-O, H19</td>
-      <td>120≦T≦150</td>
-      <td>50≦W≦1630</td>
-      <td>150,200,305,508</td>
-      <td>1190</td>
-      <td></td>
+      <td  style="vertical-align:middle; text-align:center;">Double side bright</td>
+      <td  style="vertical-align:middle; text-align:center;">JIS 1N30-O, H18<br>JIS 1050-O, H18<br>JIS 1100-O, H18<br>JIS 3003-H18<br>AA 1235-O, H19</td>
+      <td  style="vertical-align:middle; text-align:center;">120≦T≦150</td>
+      <td  style="vertical-align:middle; text-align:center;">50≦W≦1630</td>
+      <td  style="vertical-align:middle; text-align:center;">150,200,305,508</td>
+      <td  style="vertical-align:middle; text-align:center;">1190</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
   </tbody>
 </table>
@@ -155,43 +155,43 @@ Full table description on the specification details.
     <!-- Fin-stock group -->
     <tr>
       <td rowspan="6" style="vertical-align:middle; text-align:center;">Fin-stock</td>
-      <td>1050</td>
+      <td  style="vertical-align:middle; text-align:center;">1050</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">O, H22, H24</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
-      <td>100≦W≦1630</td>
-      <td>150, 200, 305</td>
+      <td  style="vertical-align:middle; text-align:center;">100≦W≦1630</td>
+      <td  style="vertical-align:middle; text-align:center;">150, 200, 305</td>
       <td rowspan="6" style="vertical-align:middle; text-align:center;">1190</td>
       <td rowspan="4" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
-      <td>1100</td>
-      <td>300≦W≦1630</td>
-      <td>508</td>
+      <td  style="vertical-align:middle; text-align:center;">1100</td>
+      <td  style="vertical-align:middle; text-align:center;">300≦W≦1630</td>
+      <td  style="vertical-align:middle; text-align:center;">508</td>
     </tr>
     <tr>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">1200</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">H24</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
-      <td>100≦W≦1630</td>
-      <td>150, 200, 305</td>
+      <td  style="vertical-align:middle; text-align:center;">100≦W≦1630</td>
+      <td  style="vertical-align:middle; text-align:center;">150, 200, 305</td>
     </tr>
     <tr>
-      <td>300≦W≦1630</td>
-      <td>508</td>
+      <td  style="vertical-align:middle; text-align:center;">300≦W≦1630</td>
+      <td  style="vertical-align:middle; text-align:center;">508</td>
     </tr>
     <tr>
-      <td>1300</td>
+      <td style="vertical-align:middle; text-align:center;">1300</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">H26</td>
-      <td>0.090≦T≦0.30</td>
-      <td>100≦W≦1630</td>
-      <td>150, 200, 305</td>
+      <td style="vertical-align:middle; text-align:center;">0.090≦T≦0.30</td>
+      <td style="vertical-align:middle; text-align:center;">100≦W≦1630</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">CAC spec.</td>
     </tr>
     <tr>
-      <td>3102</td>
-      <td>0.095≦T≦0.30</td>
-      <td>300≦W≦1630</td>
-      <td>508</td>
+      <td style="vertical-align:middle; text-align:center;">3102</td>
+      <td style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1630</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
     </tr>
     <!-- Pre-coated fin-stock group -->
     <tr>
@@ -199,51 +199,51 @@ Full table description on the specification details.
       <td rowspan="2" style="vertical-align:middle; text-align:center;">1050</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">O, H22, H24</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
-      <td>100≦W≦1390</td>
-      <td>150, 200, 305</td>
+      <td style="vertical-align:middle; text-align:center;">100≦W≦1390</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305</td>
       <td rowspan="8" style="vertical-align:middle; text-align:center;">1190</td>
       <td rowspan="6" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
-      <td>300≦W≦1390</td>
-      <td>508</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1390</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
     </tr>
     <tr>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">1100</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">O, H22, H24</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
-      <td>100≦W≦1390</td>
-      <td>150, 200, 305</td>
+      <td style="vertical-align:middle; text-align:center;">100≦W≦1390</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305</td>
     </tr>
     <tr>
-      <td>300≦W≦1390</td>
-      <td>508</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1390</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
     </tr>
     <!-- Merge Alloy 1200 and Temper H24 cells -->
     <tr>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">1200</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">H24</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
-      <td>100≦W≦1390</td>
-      <td>150, 200, 305</td>
+      <td style="vertical-align:middle; text-align:center;">100≦W≦1390</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305</td>
     </tr>
     <tr>
-      <td>300≦W≦1390</td>
-      <td>508</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1390</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
     </tr>
     <tr>
-      <td>1300</td>
+      <td style="vertical-align:middle; text-align:center;">1300</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">H26</td>
-      <td>0.090≦T≦0.30</td>
-      <td>100≦W≦1390</td>
-      <td>150, 200, 305</td>
+      <td style="vertical-align:middle; text-align:center;">0.090≦T≦0.30</td>
+      <td style="vertical-align:middle; text-align:center;">100≦W≦1390</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">CAC spec.</td>
     </tr>
     <tr>
-      <td>3102</td>
-      <td>0.095≦T≦0.30</td>
-      <td>300≦W≦1390</td>
-      <td>508</td>
+      <td style="vertical-align:middle; text-align:center;">3102</td>
+      <td style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1390</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
     </tr>
   </tbody>
 </table>
@@ -269,47 +269,47 @@ Full table description on the specification details.
   <tbody style="vertical-align:middle; text-align:center;">
     <tr><!-- Hollowware group -->
       <td rowspan="2" style="vertical-align:middle; text-align:center;">Hollowware</td>
-      <td>1100</td>
+      <td  style="vertical-align:middle; text-align:center;">1100</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">O, H22, H24</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.05≦T≦0.12</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">87≦W≦756</td>
-      <td>76</td>
+      <td  style="vertical-align:middle; text-align:center;">76</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">600</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
-      <td>150, 200</td>
-      <td>900</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200</td>
+      <td style="vertical-align:middle; text-align:center;">900</td>
     </tr>
     <tr><!-- Core of speaker group -->
-      <td>Core of speaker</td>
-      <td>1050<br>1100</td>
-      <td>O</td>
-      <td>0.10≦T≦0.30</td>
-      <td>110≦W≦1300</td>
-      <td>150</td>
-      <td>600</td>
-      <td></td>
+      <td style="vertical-align:middle; text-align:center;">Core of speaker</td>
+      <td style="vertical-align:middle; text-align:center;">1050<br>1100</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.10≦T≦0.30</td>
+      <td style="vertical-align:middle; text-align:center;">110≦W≦1300</td>
+      <td style="vertical-align:middle; text-align:center;">150</td>
+      <td style="vertical-align:middle; text-align:center;">600</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr><!-- Exhaust pipe for kitchen -->
-      <td>Exhaust pipe for kitchen</td>
-      <td>1200</td>
-      <td>O</td>
-      <td>0.085≦T≦0.15</td>
-      <td>83</td>
-      <td>150</td>
-      <td>600</td>
-      <td></td>
+      <td style="vertical-align:middle; text-align:center;">Exhaust pipe for kitchen</td>
+      <td style="vertical-align:middle; text-align:center;">1200</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.085≦T≦0.15</td>
+      <td style="vertical-align:middle; text-align:center;">83</td>
+      <td style="vertical-align:middle; text-align:center;">150</td>
+      <td style="vertical-align:middle; text-align:center;">600</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr><!-- Cable shielding -->
-      <td>Cable shielding</td>
-      <td>1N30</td>
-      <td>O</td>
-      <td>0.20≦T≦0.30</td>
-      <td>950≦T≦1050</td>
-      <td>150, 200, 305, 508</td>
-      <td>1190</td>
-      <td></td>
+      <td style="vertical-align:middle; text-align:center;">Cable shielding</td>
+      <td style="vertical-align:middle; text-align:center;">1N30</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦0.30</td>
+      <td style="vertical-align:middle; text-align:center;">950≦T≦1050</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305, 508</td>
+      <td style="vertical-align:middle; text-align:center;">1190</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
   </tbody>
 </table>
