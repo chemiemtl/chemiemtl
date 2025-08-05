@@ -274,7 +274,7 @@ Full table description on the specification details.
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.05≦T≦0.12</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">87≦W≦756</td>
       <td>76</td>
-      <td>600</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">600</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
@@ -291,7 +291,17 @@ Full table description on the specification details.
       <td>600</td>
       <td></td>
     </tr>
-    </tbody>
+      <tr><!-- Exhaust pipe for kitchen -->
+      <td>Exhaust pipe for kitchen</td>
+      <td>1200</td>
+      <td>O</td>
+      <td>0.085≦T≦0.15</td>
+      <td>83</td>
+      <td>150</td>
+      <td>600</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
 
