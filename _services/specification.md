@@ -238,7 +238,6 @@ Full table description on the specification details.
       <td>0.090≦T≦0.30</td>
       <td>100≦W≦1390</td>
       <td>150, 200, 305</td>
-      <td></td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">CAC spec.</td>
     </tr>
     <tr>
