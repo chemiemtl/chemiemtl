@@ -251,6 +251,49 @@ Full table description on the specification details.
 
 <hr>
 
+## 2.3 Special Foil Products (CAC Specification)
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Application</th>
+      <th>Alloy</th>
+      <th>Temper</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Internal Diameter (mm)</th>
+      <th>Max. Outside Diameter (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><!-- Hollowware group -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Hollowware</td>
+      <td>1100</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">O, H22, H24</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.05≦T≦0.12</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">87≦W≦756</td>
+      <td>76</td>
+      <td>600</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td>150, 200</td>
+      <td>900</td>
+    </tr>
+    <tr><!-- Core of speaker group -->
+      <td>Core of speaker</td>
+      <td>1050<br>1100</td>
+      <td>O</td>
+      <td>0.10≦T≦0.30</td>
+      <td>110≦W≦1300</td>
+      <td>150</td>
+      <td>600</td>
+      <td></td>
+    </tr>
+    </tbody>
+</table>
+
 
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
