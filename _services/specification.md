@@ -206,13 +206,8 @@ Full table description on the specification details.
       <td rowspan="2" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
-      <td></td>
-      <td>1100</td>
-      <td></td>
-      <td></td>
       <td>300≦W≦1390</td>
       <td>508</td>
-      <td></td>
     </tr>
     <tr>
       <td>1100</td>
