@@ -266,7 +266,7 @@ Full table description on the specification details.
       <th>Remark</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="vertical-align:middle; text-align:center;">
     <tr><!-- Hollowware group -->
       <td rowspan="2" style="vertical-align:middle; text-align:center;">Hollowware</td>
       <td>1100</td>
