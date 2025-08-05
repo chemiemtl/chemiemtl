@@ -174,7 +174,6 @@ Full table description on the specification details.
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
     </tr>
     <tr>
       <td>300≦W≦1630</td>
