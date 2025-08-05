@@ -8,7 +8,7 @@ Full table description on the specification details.
 
 ## 1. Casting Ware
 
-<table class="custom-table">
+<table class="custom-table" style="width:100%;">
   <thead>
     <tr>
       <th>Application</th>
