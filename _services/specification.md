@@ -156,12 +156,12 @@ Full table description on the specification details.
     <tr>
       <td rowspan="6" style="vertical-align:middle; text-align:center;">Fin-stock</td>
       <td>1050</td>
-      <td>O, H22, H24</td>
-      <td>0.095≦T≦0.30</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">O, H22, H24</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.095≦T≦0.30</td>
       <td>100≦W≦1630</td>
       <td>150, 200, 305</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">1190</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">Chemical composition same as AA or JIS spec.</td>
     </tr>
     <tr>
       <td>1100</td>
