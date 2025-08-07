@@ -326,14 +326,23 @@ Full table description on the specification details.
       <td style="vertical-align:middle; text-align:center;">720</td>
     </tr>
     <tr>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1235</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">O</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.015≦T≦0.025</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">285≦W≦800</td>
       <td style="vertical-align:middle; text-align:center;">76</td>
       <td style="vertical-align:middle; text-align:center;">600</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">AA spec.</td>
     </tr>
     <tr>
       <td style="vertical-align:middle; text-align:center;">150</td>
       <td style="vertical-align:middle; text-align:center;">720</td>
     </tr>
     <tr>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">8079</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">O</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.015≦T≦0.025</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">290≦W≦800</td>
       <td style="vertical-align:middle; text-align:center;">76</td>
       <td style="vertical-align:middle; text-align:center;">600</td>
     </tr>
