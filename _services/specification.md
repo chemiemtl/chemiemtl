@@ -325,6 +325,22 @@ Full table description on the specification details.
       <td style="vertical-align:middle; text-align:center;">150</td>
       <td style="vertical-align:middle; text-align:center;">720</td>
     </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">76</td>
+      <td style="vertical-align:middle; text-align:center;">600</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">150</td>
+      <td style="vertical-align:middle; text-align:center;">720</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">76</td>
+      <td style="vertical-align:middle; text-align:center;">600</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">150</td>
+      <td style="vertical-align:middle; text-align:center;">720</td>
+    </tr>
     <tr><!-- Current collector of battery, Drug package -->
       <td style="vertical-align:middle; text-align:center;">Current collector of battery, Drug package</td>
       <td style="vertical-align:middle; text-align:center;">1N30<br>1235</td>
