@@ -345,6 +345,7 @@ Full table description on the specification details.
       <td rowspan="2" style="vertical-align:middle; text-align:center;">290≦W≦800</td>
       <td style="vertical-align:middle; text-align:center;">76</td>
       <td style="vertical-align:middle; text-align:center;">600</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
       <td style="vertical-align:middle; text-align:center;">150</td>
@@ -368,7 +369,7 @@ Full table description on the specification details.
       <td style="vertical-align:middle; text-align:center;">300≦W≦1200</td>
       <td style="vertical-align:middle; text-align:center;">76</td>
       <td style="vertical-align:middle; text-align:center;">490</td>
-      <td  style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr><!-- Tab of battery -->
       <td style="vertical-align:middle; text-align:center;">Tab of battery</td>
@@ -378,7 +379,7 @@ Full table description on the specification details.
       <td style="vertical-align:middle; text-align:center;">300≦W≦1200</td>
       <td style="vertical-align:middle; text-align:center;">150, 305</td>
       <td style="vertical-align:middle; text-align:center;">900</td>
-      <td  style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr><!-- Filter -->
       <td style="vertical-align:middle; text-align:center;">Filter</td>
@@ -388,7 +389,7 @@ Full table description on the specification details.
       <td style="vertical-align:middle; text-align:center;">120≦W≦1300</td>
       <td style="vertical-align:middle; text-align:center;">76, 150</td>
       <td style="vertical-align:middle; text-align:center;">400</td>
-      <td  style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr><!-- Tire repair patch -->
       <td style="vertical-align:middle; text-align:center;">Tire repair patch</td>
@@ -398,7 +399,7 @@ Full table description on the specification details.
       <td style="vertical-align:middle; text-align:center;">67≦W≦750</td>
       <td style="vertical-align:middle; text-align:center;">76</td>
       <td style="vertical-align:middle; text-align:center;">500</td>
-      <td  style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
   </tbody>
 </table>
