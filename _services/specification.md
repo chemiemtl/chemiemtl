@@ -295,7 +295,7 @@ Full table description on the specification details.
       <td style="vertical-align:middle; text-align:center;">Exhaust pipe for kitchen</td>
       <td style="vertical-align:middle; text-align:center;">1200</td>
       <td style="vertical-align:middle; text-align:center;">O</td>
-      <td style="vertical-align:middle; text-align:center;">0.085≦T≦0.15</td>
+      <td style="vertical-align:middle; text-align:center;">0.085≦W≦0.15</td>
       <td style="vertical-align:middle; text-align:center;">83</td>
       <td style="vertical-align:middle; text-align:center;">150</td>
       <td style="vertical-align:middle; text-align:center;">600</td>
@@ -306,13 +306,78 @@ Full table description on the specification details.
       <td style="vertical-align:middle; text-align:center;">1N30</td>
       <td style="vertical-align:middle; text-align:center;">O</td>
       <td style="vertical-align:middle; text-align:center;">0.20≦T≦0.30</td>
-      <td style="vertical-align:middle; text-align:center;">950≦T≦1050</td>
+      <td style="vertical-align:middle; text-align:center;">950≦W≦1050</td>
       <td style="vertical-align:middle; text-align:center;">150, 200, 305, 508</td>
       <td style="vertical-align:middle; text-align:center;">1190</td>
       <td  style="vertical-align:middle; text-align:center;"></td>
     </tr>
+    <tr><!-- Household foil (not single side bright for laminated use) -->
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">Household foil (not single side bright for laminated use)</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1600</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">O</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.013≦T≦0.025</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">285≦W≦700</td>
+      <td style="vertical-align:middle; text-align:center;">76</td>
+      <td style="vertical-align:middle; text-align:center;">600</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">150</td>
+      <td style="vertical-align:middle; text-align:center;">720</td>
+    </tr>
+    <tr><!-- Current collector of battery, Drug package -->
+      <td style="vertical-align:middle; text-align:center;">Current collector of battery, Drug package</td>
+      <td style="vertical-align:middle; text-align:center;">1N30<br>1235</td>
+      <td style="vertical-align:middle; text-align:center;">H18</td>
+      <td style="vertical-align:middle; text-align:center;">0.015≦T≦0.030</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1200</td>
+      <td style="vertical-align:middle; text-align:center;">76</td>
+      <td style="vertical-align:middle; text-align:center;">490</td>
+      <td  style="vertical-align:middle; text-align:center;">JIS spec.</td>
+    </tr>
+    <tr><!-- Package of battery -->
+      <td style="vertical-align:middle; text-align:center;">Package of battery</td>
+      <td style="vertical-align:middle; text-align:center;">8021</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.030≦T≦0.040</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1200</td>
+      <td style="vertical-align:middle; text-align:center;">76</td>
+      <td style="vertical-align:middle; text-align:center;">490</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- Tab of battery -->
+      <td style="vertical-align:middle; text-align:center;">Tab of battery</td>
+      <td style="vertical-align:middle; text-align:center;">1N30<br>1235</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.080≦T≦0.40</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1200</td>
+      <td style="vertical-align:middle; text-align:center;">150, 305</td>
+      <td style="vertical-align:middle; text-align:center;">900</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- Filter -->
+      <td style="vertical-align:middle; text-align:center;">Filter</td>
+      <td style="vertical-align:middle; text-align:center;">1N30</td>
+      <td style="vertical-align:middle; text-align:center;">H18</td>
+      <td style="vertical-align:middle; text-align:center;">0.030≦T≦0.040</td>
+      <td style="vertical-align:middle; text-align:center;">120≦W≦1300</td>
+      <td style="vertical-align:middle; text-align:center;">76, 150</td>
+      <td style="vertical-align:middle; text-align:center;">400</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- Tire repair patch -->
+      <td style="vertical-align:middle; text-align:center;">Tire repair patch</td>
+      <td style="vertical-align:middle; text-align:center;">1N30</td>
+      <td style="vertical-align:middle; text-align:center;">H18</td>
+      <td style="vertical-align:middle; text-align:center;">0.030≦T≦0.050</td>
+      <td style="vertical-align:middle; text-align:center;">67≦W≦750</td>
+      <td style="vertical-align:middle; text-align:center;">76</td>
+      <td style="vertical-align:middle; text-align:center;">500</td>
+      <td  style="vertical-align:middle; text-align:center;"></td>
+    </tr>
   </tbody>
 </table>
+Remark : Alloy 1N30 and 1230A are the same.
 
 
 <!-- Commented out for now.
