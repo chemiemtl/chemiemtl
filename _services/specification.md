@@ -885,12 +885,45 @@ Remark: For O temper, reel marks shall not be cause for rejection.
       <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">305<br>406<br>508</td>
-      <td  rowspan="4" style="vertical-align:middle; text-align:center;">For end stock, bottle cap used, see table 5.</td>
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">For end stock, bottle cap used, see table 5.</td>
     </tr>
     <tr>
       <td style="vertical-align:middle; text-align:center;">5XXX</td>
       <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
       <td style="vertical-align:middle; text-align:center;">250≦W≦2000</td>
+    </tr>
+  </tbody>
+</table>
+
+### 4.5 Available Thickness, Width & Internal Diameter For Slit Coil
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Alloy & Temper</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Slit</th>
+      <th>Internal Diameter (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- 1XXX-O 3003-O 6061-O -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1XXX-O<br>3003-O<br>6061-O</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Paint sheet</td>
+      <td style="vertical-align:middle; text-align:center;">0.3＜T≦0.5</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1000</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">305</td>
+      <td style="vertical-align:middle; text-align:center;">1.O.D.≦910mm<br>2.Without paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.7＜T≦3.35</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦750</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
+      <td style="vertical-align:middle; text-align:center;">1.Lined with thin paper <br>2. Without paper core</td>
     </tr>
   </tbody>
 </table>
