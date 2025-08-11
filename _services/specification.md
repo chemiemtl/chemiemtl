@@ -807,10 +807,64 @@ Remark: For SFQ or higher grade, maximum thickness is 2mm.
       <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
       <td style="vertical-align:middle; text-align:center;">1000≦W≦1250</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦8000</td>
-      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;"></td>
     </tr>
   </tbody>
 </table>
+
+### 4.3 Available Width & Internal Diameter For Coil Sheet
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th colspan="2">Application</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Internal Diameter (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- Non O temper -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">Non O<br>temper</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">General Product</td>
+      <td style="vertical-align:middle; text-align:center;">0.10≦T≦0.20</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1500</td>
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">305 (T≦1.0mm)<br>406 (T≦1.0mm)<br>508</td>
+      <td  rowspan="4" style="vertical-align:middle; text-align:center;">For 1xxx, T≦3.6mm</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦3.20</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">6xxx</td>
+      <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦W≦2000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">7xxx</td>
+      <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦W≦1250</td>
+    </tr>
+    <tr><!-- O temper -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">O temper</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">ALL</td>
+      <td style="vertical-align:middle; text-align:center;">0.25≦T≦0.50</td>
+      <td style="vertical-align:middle; text-align:center;">800≦W≦2000</td>
+      <td style="vertical-align:middle; text-align:center;">305</td>
+      <td style="vertical-align:middle; text-align:center;">Max O.D. is 950mm.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦3.40</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+      <td style="vertical-align:middle; text-align:center;">305 (T≦1.0mm)<br>406 (T≦1.0mm)<br>508</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+  </tbody>
+</table>
+Remark: For O temper, reel marks shall not be cause for rejection.
+
 
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
