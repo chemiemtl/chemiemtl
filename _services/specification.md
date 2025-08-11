@@ -953,9 +953,67 @@ Remark: For O temper, reel marks shall not be cause for rejection.
       <td style="vertical-align:middle; text-align:center;">508</td>
       <td style="vertical-align:middle; text-align:center;">Without paper core</td>
     </tr>
+    <tr><!-- 1XXX-H2N -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">1XXX-H2N</td>
+      <td style="vertical-align:middle; text-align:center;">0.3＜T≦0.5</td>
+      <td style="vertical-align:middle; text-align:center;">500≦W≦1000</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">305</td>
+      <td style="vertical-align:middle; text-align:center;">Without paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.5＜T≦0.8</td>
+      <td style="vertical-align:middle; text-align:center;">400≦W≦1000</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+      <td style="vertical-align:middle; text-align:center;">With paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.8＜T≦1.2</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1000</td>
+      <td style="vertical-align:middle; text-align:center;">2</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
+      <td style="vertical-align:middle; text-align:center;">With paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">1.2＜T≦3.35</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦750</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
+      <td style="vertical-align:middle; text-align:center;">Without paper core</td>
+    </tr>
+    <tr><!-- 3XXX-O 5XXX-O 3XXX-H1N & H2N 5XXX-H1N&  2N & H3N 6XXX-T4 & T6 -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">3XXX-O<br>5XXX-O<br>3XXX-H1N & H2N<br>5XXX-H1N& H2N & H3N<br>6XXX-T4 & T6</td>
+      <td style="vertical-align:middle; text-align:center;">0.2≦T≦0.3</td>
+      <td style="vertical-align:middle; text-align:center;">500≦W≦1000</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+      <td style="vertical-align:middle; text-align:center;">With paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.3＜T≦0.8</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1000</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+      <td style="vertical-align:middle; text-align:center;">With paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.8＜T≦1.2</td>
+      <td style="vertical-align:middle; text-align:center;">400≦W≦880</td>
+      <td style="vertical-align:middle; text-align:center;">2</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
+      <td style="vertical-align:middle; text-align:center;">Without paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">1.2＜T≦3.35</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦750</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
+      <td style="vertical-align:middle; text-align:center;">Without paper core</td>
+    </tr>
   </tbody>
 </table>
-
+Remark: For O temper, reel marks shall not be cause for rejection.
 
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
