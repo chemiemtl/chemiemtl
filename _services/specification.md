@@ -424,65 +424,65 @@ Remark : Alloy 1N30 and 1230A are the same.
     <tr><!-- 1050, 1070, 1100  3003, 3004  5005, 5052, 5456, 5083, 5754 -->
       <td rowspan="6" style="vertical-align:middle; text-align:center;">1050, 1070, 1100<br>3003, 3004<br>5005, 5052, 5456, 5083, 5754</td>
       <td rowspan="6" style="vertical-align:middle; text-align:center;">F<br>H112</td>
-      <td style="vertical-align:middle; text-align:center;">6.5≦T≦13.0</td>
+      <td style="vertical-align:middle; text-align:center;">6.5＜T≦13.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
       <td style="vertical-align:middle; text-align:center;">2000≦L≦6000</td>
       <td rowspan="6" style="vertical-align:middle; text-align:center;">Alloy 1050, 1070, only JIS available</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">13≦T≦20.0</td>
+      <td style="vertical-align:middle; text-align:center;">13＜T≦20.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
       <td rowspan="5" style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">20.0≦T≦30.0</td>
+      <td style="vertical-align:middle; text-align:center;">20.0＜T≦30.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">30.0≦T≦40.0</td>
+      <td style="vertical-align:middle; text-align:center;">30.0＜T≦40.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1830</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">40.0≦T≦50.0</td>
+      <td style="vertical-align:middle; text-align:center;">40.0＜T≦50.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">50.0≦T≦300</td>
+      <td style="vertical-align:middle; text-align:center;">50.0＜T≦300</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
     </tr>
     <tr><!-- 1050, 1070, 1100  3003, 3004  5005, 5052, 5456, 5083, 5754 -->
       <td rowspan="6" style="vertical-align:middle; text-align:center;">1050, 1070, 1100<br>3003, 3004<br>5005, 5052, 5456, 5083, 5754</td>
       <td rowspan="6" style="vertical-align:middle; text-align:center;">O<br>H111</td>
-      <td style="vertical-align:middle; text-align:center;">6.5≦T≦13.0</td>
+      <td style="vertical-align:middle; text-align:center;">6.5＜T≦13.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
       <td style="vertical-align:middle; text-align:center;">2000≦L≦6000</td>
       <td rowspan="6" style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">13≦T≦20.0</td>
+      <td style="vertical-align:middle; text-align:center;">13＜T≦20.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
       <td rowspan="5" style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">20.0≦T≦30.0</td>
+      <td style="vertical-align:middle; text-align:center;">20.0＜T≦30.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">30.0≦T≦40.0</td>
+      <td style="vertical-align:middle; text-align:center;">30.0＜T≦40.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1830</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">40.0≦T≦50.0</td>
+      <td style="vertical-align:middle; text-align:center;">40.0＜T≦50.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">50.0≦T≦300</td>
+      <td style="vertical-align:middle; text-align:center;">50.0＜T≦300</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
     </tr>
     <tr><!-- 5083, 5086, 5456 -->
       <td style="vertical-align:middle; text-align:center;">5083, 5086, 5456</td>
       <td style="vertical-align:middle; text-align:center;">H32</td>
-      <td style="vertical-align:middle; text-align:center;">9.50≦T≦45.0</td>
+      <td style="vertical-align:middle; text-align:center;">9.50＜T≦45.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1550</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">Allow surface scratches and contamination marks</td>
@@ -490,12 +490,66 @@ Remark : Alloy 1N30 and 1230A are the same.
     <tr><!-- 5052 -->
       <td style="vertical-align:middle; text-align:center;">5052</td>
       <td style="vertical-align:middle; text-align:center;">H32, H34</td>
-      <td style="vertical-align:middle; text-align:center;">9.50≦T≦12.0</td>
+      <td style="vertical-align:middle; text-align:center;">9.50＜T≦12.0</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1550</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
     </tr>
+    <tr><!-- 6061 -->
+      <td rowspan="7" style="vertical-align:middle; text-align:center;">6061</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">F<br>O</td>
+      <td style="vertical-align:middle; text-align:center;">6.5＜T≦13.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
+      <td style="vertical-align:middle; text-align:center;">2000≦L≦6000</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">13＜T≦20.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">20.0＜T≦30.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1830</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">30.0＜T≦40.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">40.0＜T≦300</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">T451<br>T651</td>
+      <td style="vertical-align:middle; text-align:center;">10.0＜T≦130</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1800</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">For Tx51, T＜130mm</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">130≦T≦160</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1800</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
+    </tr>
+    <tr><!-- 7075 -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">7075</td>
+      <tdstyle="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">15.0≦T≦50</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1250</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <tdstyle="vertical-align:middle; text-align:center;">T651</td>
+      <td style="vertical-align:middle; text-align:center;">15.0≦T≦100</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1250</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
+    </tr>
   </tbody>
 </table>
+Remark 1: The maximum thickness shall be refers to both table 3.1 and applicable specification.<br>
+Remark 2:Laminaion Spec.
 
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
