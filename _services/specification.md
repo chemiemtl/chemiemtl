@@ -1015,6 +1015,58 @@ Remark: For O temper, reel marks shall not be cause for rejection.
 </table>
 Remark: For O temper, reel marks shall not be cause for rejection.
 
+## 5. Special Products
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Application</th>
+      <th>Alloy</th>
+      <th>Temper</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Internal Diameter (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- End stock -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">End stock</td>
+      <td style="vertical-align:middle; text-align:center;">5052</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">H19, H39, H48</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">6.5＜T≦13.0</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
+      <td style="vertical-align:middle; text-align:center;">250≦W≦2050</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5182</td>
+    </tr>
+    <tr><!-- Tab stock -->
+      <td style="vertical-align:middle; text-align:center;">Tab stock</td>
+      <td style="vertical-align:middle; text-align:center;">5182</td>
+      <td style="vertical-align:middle; text-align:center;">H19, H39, H48</td>
+      <td style="vertical-align:middle; text-align:center;">0.218≦T≦0.50</td>
+      <td style="vertical-align:middle; text-align:center;">25≦W≦2050</td>
+    </tr>
+    <tr><!-- Can -->
+      <td style="vertical-align:middle; text-align:center;">Can</td>
+      <td style="vertical-align:middle; text-align:center;">5042</td>
+      <td style="vertical-align:middle; text-align:center;">H19, H39, H48</td>
+      <td style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
+      <td style="vertical-align:middle; text-align:center;">250≦W≦2050</td>
+    </tr>
+    <tr><!-- Can body -->
+      <td style="vertical-align:middle; text-align:center;">Can body</td>
+      <td style="vertical-align:middle; text-align:center;">3104</td>
+      <td style="vertical-align:middle; text-align:center;">H19, H39</td>
+      <td style="vertical-align:middle; text-align:center;">0.27≦T≦0.305</td>
+      <td style="vertical-align:middle; text-align:center;">700≦W≦1750</td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
