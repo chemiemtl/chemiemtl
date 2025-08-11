@@ -549,7 +549,7 @@ Remark : Alloy 1N30 and 1230A are the same.
   </tbody>
 </table>
 Remark 1: The maximum thickness shall be refers to both table 3.1 and applicable specification.<br>
-Remark 2:Laminaion Spec.
+Remark 2: Laminaion Spec.
 
 <table class="custom-table" style="width:100%;">
   <thead>
@@ -581,7 +581,7 @@ Remark 2:Laminaion Spec.
       <td style="vertical-align:middle; text-align:center;">1200≦W≦1525</td>
       <td style="vertical-align:middle; text-align:center;">2700≦L≦4000</td>
     </tr>
-    </tbody>
+  </tbody>
 </table>
 
 <hr>
@@ -771,12 +771,47 @@ Remark: For SFQ or higher grade, maximum thickness is 2mm.
   <tbody style="vertical-align:middle; text-align:center;">
     <tr><!-- 1xxx & 3xxx& 5xxx alloy -->
       <td rowspan="3" style="vertical-align:middle; text-align:center;">1xxx & 3xxx& 5xxx alloy</td>
-      <td style="vertical-align:middle; text-align:center;">F</td>
-      <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
-      <td  rowspan="5" style="vertical-align:middle; text-align:center;">1. Alloy 1050, 1070, only JIS available<br>2. 1xxx H16, T≧0.18mm<br>3. 1xxx H18, T≧0.15mm</td>
+      <td style="vertical-align:middle; text-align:center;">0.12≦T≦0.80</td>
+      <td style="vertical-align:middle; text-align:center;">800≦W≦1320</td>
+      <td style="vertical-align:middle; text-align:center;">500≦L≦3048</td>
+      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.80≦T≦1.50</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1320</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
+      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">1.50≦T≦6.00</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1820</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦8000</td>
+      <td  rowspan="5" style="vertical-align:middle; text-align:center;">For ship, W≦2000mm</td>
+    </tr>
+    <tr><!-- Painted Sheet -->
+      <td style="vertical-align:middle; text-align:center;">Painted Sheet</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦0.80</td>
+      <td style="vertical-align:middle; text-align:center;">800≦W≦1320</td>
+      <td style="vertical-align:middle; text-align:center;">500≦L≦3048</td>
+      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 6xxx alloy -->
+      <td style="vertical-align:middle; text-align:center;">6xxx alloy</td>
+      <td style="vertical-align:middle; text-align:center;">0.40≦T≦6.00</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦W≦1820</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦8000</td>
+      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 7xxx alloy -->
+      <td style="vertical-align:middle; text-align:center;">7xxx alloy</td>
+      <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦W≦1250</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦8000</td>
+      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
     </tr>
   </tbody>
 </table>
+
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
