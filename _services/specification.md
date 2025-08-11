@@ -721,7 +721,7 @@ Remark 2: Laminaion Spec.
       <td style="vertical-align:middle; text-align:center;">F</td>
       <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">For T≧4.0mm, only STQ grade available</td>
-    <tr>
+    </tr>
       <td style="vertical-align:middle; text-align:center;">O</td>
       <td style="vertical-align:middle; text-align:center;">0.25≦T≦6.00</td>
     </tr>
