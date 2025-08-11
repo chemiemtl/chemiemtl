@@ -774,40 +774,40 @@ Remark: For SFQ or higher grade, maximum thickness is 2mm.
       <td style="vertical-align:middle; text-align:center;">0.12≦T≦0.80</td>
       <td style="vertical-align:middle; text-align:center;">800≦W≦1320</td>
       <td style="vertical-align:middle; text-align:center;">500≦L≦3048</td>
-      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
       <td style="vertical-align:middle; text-align:center;">0.80≦T≦1.50</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1320</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
-      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
       <td style="vertical-align:middle; text-align:center;">1.50≦T≦6.00</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1820</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦8000</td>
-      <td rowspan="5" style="vertical-align:middle; text-align:center;">For ship, W≦2000mm</td>
+      <td style="vertical-align:middle; text-align:center;">For ship, W≦2000mm</td>
     </tr>
     <tr><!-- Painted Sheet -->
       <td style="vertical-align:middle; text-align:center;">Painted Sheet</td>
       <td style="vertical-align:middle; text-align:center;">0.20≦T≦0.80</td>
       <td style="vertical-align:middle; text-align:center;">800≦W≦1320</td>
       <td style="vertical-align:middle; text-align:center;">500≦L≦3048</td>
-      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr><!-- 6xxx alloy -->
       <td style="vertical-align:middle; text-align:center;">6xxx alloy</td>
       <td style="vertical-align:middle; text-align:center;">0.40≦T≦6.00</td>
       <td style="vertical-align:middle; text-align:center;">1000≦W≦1820</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦8000</td>
-      <td  rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr><!-- 7xxx alloy -->
       <td style="vertical-align:middle; text-align:center;">7xxx alloy</td>
       <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
       <td style="vertical-align:middle; text-align:center;">1000≦W≦1250</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦8000</td>
-      <td rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
   </tbody>
 </table>
