@@ -604,7 +604,7 @@ Remark 2: Laminaion Spec.
       <td rowspan="5" style="vertical-align:middle; text-align:center;">1050,1070,1100,<br>3003,3004,<br>5005,5052,<br>5252,5454, 5754</td>
       <td style="vertical-align:middle; text-align:center;">F</td>
       <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
-      <td  rowspan="5" style="vertical-align:middle; text-align:center;">1. Alloy 1050, 1070, only JIS available<br>2. 1xxx H16, T≧0.18mm<br>3. 1xxx H18, T≧0.15mm</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">1. Alloy 1050, 1070, only JIS available<br>2. 1xxx H16, T≧0.18mm<br>3. 1xxx H18, T≧0.15mm</td>
     </tr>
     <tr>
       <td style="vertical-align:middle; text-align:center;">O</td>
