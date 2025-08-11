@@ -1035,7 +1035,7 @@ Remark: For O temper, reel marks shall not be cause for rejection.
       <td style="vertical-align:middle; text-align:center;">5052</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">H19, H39, H48</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
-      <td style="vertical-align:middle; text-align:center;">250≦W≦2050</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">250≦W≦2050</td>
       <td rowspan="5" style="vertical-align:middle; text-align:center;">305, 406, 508</td>
       <td rowspan="5" style="vertical-align:middle; text-align:center;"></td>
     </tr>
@@ -1062,6 +1062,60 @@ Remark: For O temper, reel marks shall not be cause for rejection.
       <td style="vertical-align:middle; text-align:center;">H19, H39</td>
       <td style="vertical-align:middle; text-align:center;">0.27≦T≦0.305</td>
       <td style="vertical-align:middle; text-align:center;">700≦W≦1750</td>
+    </tr>
+    <tr><!-- Bottle cap -->
+      <td rowspan="7" style="vertical-align:middle; text-align:center;">Bottle cap</td>
+      <td style="vertical-align:middle; text-align:center;">1050</td>
+      <td style="vertical-align:middle; text-align:center;">H16</td>
+      <td style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
+      <td rowspan="7" style="vertical-align:middle; text-align:center;">250≦W≦1500<br>(Coil sheet)<br><br>800≦W≦1320<br>(Flat sheet)</td>
+      <td rowspan="7" style="vertical-align:middle; text-align:center;">305, 406, 508<br>(Coil sheet)<br><br>800≦Length≦1500<br>(Flat sheet)</td>
+      <td rowspan="7" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">1100</td>
+      <td style="vertical-align:middle; text-align:center;">H16, H18</td>
+      <td style="vertical-align:middle; text-align:center;">0.190≦T≦0.33</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">3003</td>
+      <td style="vertical-align:middle; text-align:center;">H16</td>
+      <td style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">3105</td>
+      <td style="vertical-align:middle; text-align:center;">H16</td>
+      <td style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5052</td>
+      <td style="vertical-align:middle; text-align:center;">H39</td>
+      <td style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5051</td>
+      <td style="vertical-align:middle; text-align:center;">H36, H38, H39</td>
+      <td style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">8011</td>
+      <td style="vertical-align:middle; text-align:center;">H34</td>
+      <td style="vertical-align:middle; text-align:center;">0.200≦T≦0.33</td>
+    </tr>
+    <tr><!-- Blind stock -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">Blind stock</td>
+      <td style="vertical-align:middle; text-align:center;">5052</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">H19</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">0.13≦T≦0.24</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">850≦W≦2050</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">508</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5182</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">3104</td>
     </tr>
   </tbody>
 </table>
