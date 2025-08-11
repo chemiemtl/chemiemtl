@@ -586,9 +586,9 @@ Remark 2:Laminaion Spec.
 
 <hr>
 
-## 2. Coil Sheet And Flat Sheet
+## 4. Coil Sheet And Flat Sheet
 
-### 2.1 Available Specification, Alloy, Temper &  Thickness of Sheet
+### 4.1 Available Specification, Alloy, Temper &  Thickness of Sheet
 
 <table class="custom-table" style="width:100%;">
   <thead>
@@ -669,9 +669,114 @@ Remark 2:Laminaion Spec.
       <td style="vertical-align:middle; text-align:center;">0.50≦T≦4.00</td>
       <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
+    <tr><!-- 5083 -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">F</td>
+      <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">For T≧4.0mm, only STQ grade available</td>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">1.20≦T≦5.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H32</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦5.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H116</td>
+      <td style="vertical-align:middle; text-align:center;">3.00≦T≦6.00</td>
+    </tr>
+    <tr><!-- 5086 -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">5086</td>
+      <td style="vertical-align:middle; text-align:center;">F</td>
+      <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">For T≧4.0mm, only STQ grade available</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦6.00</td>
+    </tr>
+    <tr><!-- 5086, 5182 -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">5086, 5182</td>
+      <td style="vertical-align:middle; text-align:center;">H14, H34</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦5.00</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">For Alloy 5182, only CAC spec. available<br>For T≧4.0mm, only STQ grade available</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H16, H36</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦3.50</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H18, H38</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦2.20</td>
+    </tr>
+    <tr><!-- 3004, 5052, 5182, 5082 -->
+      <td style="vertical-align:middle; text-align:center;">3004, 5052, 5182, 5082</td>
+      <td style="vertical-align:middle; text-align:center;">H19, H39</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦0.50</td>
+      <td style="vertical-align:middle; text-align:center;">For umbrella rib : 0.20≦T≦0.60</td>
+    </tr>
+    <tr><!-- 6061 -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">6061</td>
+      <td style="vertical-align:middle; text-align:center;">F</td>
+      <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">For T≧4.0mm, only STQ grade available</td>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.25≦T≦6.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">T4、T6</td>
+      <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 6063 -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">6063</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.25≦T≦6.00</td>
+      <td style="vertical-align:middle; text-align:center;">For T≧4.0mm, only STQ grade available</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">T4、T6</td>
+      <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 7075 -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">7075</td>
+      <td style="vertical-align:middle; text-align:center;">O、T6</td>
+      <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">T73</td>
+      <td style="vertical-align:middle; text-align:center;">1.50≦T≦3.20</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
   </tbody>
 </table>
+Remark: For SFQ or higher grade, maximum thickness is 2mm.
 
+### 4.2 Available Width & Length of Flat Sheet
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Application</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Length (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- 1xxx & 3xxx& 5xxx alloy -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">1xxx & 3xxx& 5xxx alloy</td>
+      <td style="vertical-align:middle; text-align:center;">F</td>
+      <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
+      <td  rowspan="5" style="vertical-align:middle; text-align:center;">1. Alloy 1050, 1070, only JIS available<br>2. 1xxx H16, T≧0.18mm<br>3. 1xxx H18, T≧0.15mm</td>
+    </tr>
+  </tbody>
+</table>
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
