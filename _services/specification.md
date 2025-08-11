@@ -584,6 +584,94 @@ Remark 2:Laminaion Spec.
     </tbody>
 </table>
 
+<hr>
+
+## 2. Coil Sheet And Flat Sheet
+
+### 2.1 Available Specification, Alloy, Temper &  Thickness of Sheet
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Alloy</th>
+      <th>Temper</th>
+      <th>Thickness (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- 1050,1070,1100, 3003,3004, 5005,5052, 5252,5454, 5754 -->
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">1050,1070,1100,<br>3003,3004,<br>5005,5052,<br>5252,5454, 5754</td>
+      <td style="vertical-align:middle; text-align:center;">F</td>
+      <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
+      <td  rowspan="5" style="vertical-align:middle; text-align:center;">1. Alloy 1050, 1070, only JIS available<br>2. 1xxx H16, T≧0.18mm<br>3. 1xxx H18, T≧0.15mm</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.25≦T≦6.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H14, H34</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦5.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H16, H36</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦3.50</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H18, H38</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦2.20</td>
+    </tr>
+    <tr><!-- 1050 -->
+      <td style="vertical-align:middle; text-align:center;">1050</td>
+      <td style="vertical-align:middle; text-align:center;">H24, H26</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦3.00</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 1070 -->
+      <td style="vertical-align:middle; text-align:center;">1070</td>
+      <td style="vertical-align:middle; text-align:center;">H24, H26</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 1100 -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1100</td>
+      <td style="vertical-align:middle; text-align:center;">H24</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.50</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H26</td>
+      <td style="vertical-align:middle; text-align:center;">1.50≦T≦1.80</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 3003 -->
+      <td style="vertical-align:middle; text-align:center;">3003</td>
+      <td style="vertical-align:middle; text-align:center;">H24</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦2.00</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 3004 -->
+      <td style="vertical-align:middle; text-align:center;">3004</td>
+      <td style="vertical-align:middle; text-align:center;">H32</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦6.00</td>
+      <td style="vertical-align:middle; text-align:center;">For AA spec. , T≧0.43 mm</td>
+    </tr>
+    <tr><!-- 5005, 5052, 5252 -->
+      <td style="vertical-align:middle; text-align:center;">5005, 5052, 5252</td>
+      <td style="vertical-align:middle; text-align:center;">H32</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦6.00</td>
+      <td style="vertical-align:middle; text-align:center;">For Alloy 5252, only CAC spec. available</td>
+    </tr>
+    <tr><!-- 5052 -->
+      <td style="vertical-align:middle; text-align:center;">5052</td>
+      <td style="vertical-align:middle; text-align:center;">H22</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦4.00</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
