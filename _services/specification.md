@@ -450,6 +450,50 @@ Remark : Alloy 1N30 and 1230A are the same.
       <td style="vertical-align:middle; text-align:center;">50.0≦T≦300</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
     </tr>
+    <tr><!-- 1050, 1070, 1100  3003, 3004  5005, 5052, 5456, 5083, 5754 -->
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">1050, 1070, 1100<br>3003, 3004<br>5005, 5052, 5456, 5083, 5754</td>
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">O<br>H111</td>
+      <td style="vertical-align:middle; text-align:center;">6.5≦T≦13.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
+      <td style="vertical-align:middle; text-align:center;">2000≦L≦6000</td>
+      <td rowspan="6" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">13≦T≦20.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">20.0≦T≦30.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">30.0≦T≦40.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1830</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">40.0≦T≦50.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">50.0≦T≦300</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+    </tr>
+    <tr><!-- 5083, 5086, 5456 -->
+      <td style="vertical-align:middle; text-align:center;">5083, 5086, 5456</td>
+      <td style="vertical-align:middle; text-align:center;">H32</td>
+      <td style="vertical-align:middle; text-align:center;">9.50≦T≦45.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1550</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Allow surface scratches and contamination marks</td>
+    </tr>
+    <tr><!-- 5052 -->
+      <td style="vertical-align:middle; text-align:center;">5052</td>
+      <td style="vertical-align:middle; text-align:center;">H32, H34</td>
+      <td style="vertical-align:middle; text-align:center;">9.50≦T≦12.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1550</td>
+      <td style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
+    </tr>
   </tbody>
 </table>
 
