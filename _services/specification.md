@@ -405,6 +405,9 @@ Full table description on the specification details.
 </table>
 Remark : Alloy 1N30 and 1230A are the same.
 
+<hr>
+
+## 3. Plate
 
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
