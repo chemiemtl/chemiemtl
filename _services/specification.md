@@ -879,40 +879,18 @@ Remark: For O temper, reel marks shall not be cause for rejection.
   </thead>
   <tbody style="vertical-align:middle; text-align:center;">
     <tr><!-- Non O temper -->
-      <td rowspan="4" style="vertical-align:middle; text-align:center;">Non O<br>temper</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">General Product</td>
-      <td style="vertical-align:middle; text-align:center;">0.10≦T≦0.20</td>
-      <td style="vertical-align:middle; text-align:center;">850≦W≦1500</td>
-      <td rowspan="4" style="vertical-align:middle; text-align:center;">305 (T≦1.0mm)<br>406 (T≦1.0mm)<br>508</td>
-      <td  rowspan="4" style="vertical-align:middle; text-align:center;">For 1xxx, T≦3.6mm</td>
-    </tr>
-    <tr>
-      <td style="vertical-align:middle; text-align:center;">0.20≦T≦3.20</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Non O<br>temper</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Paint sheet</td>
+      <td style="vertical-align:middle; text-align:center;">1XXX<br>3XXX</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">305<br>406<br>508</td>
+      <td  rowspan="4" style="vertical-align:middle; text-align:center;">For end stock, bottle cap used, see table 5.</td>
     </tr>
     <tr>
-      <td style="vertical-align:middle; text-align:center;">6xxx</td>
-      <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
-      <td style="vertical-align:middle; text-align:center;">1000≦W≦2000</td>
-    </tr>
-    <tr>
-      <td style="vertical-align:middle; text-align:center;">7xxx</td>
-      <td style="vertical-align:middle; text-align:center;">0.40≦T≦3.20</td>
-      <td style="vertical-align:middle; text-align:center;">1000≦W≦1250</td>
-    </tr>
-    <tr><!-- O temper -->
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">O temper</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">ALL</td>
-      <td style="vertical-align:middle; text-align:center;">0.25≦T≦0.50</td>
-      <td style="vertical-align:middle; text-align:center;">800≦W≦2000</td>
-      <td style="vertical-align:middle; text-align:center;">305</td>
-      <td style="vertical-align:middle; text-align:center;">Max O.D. is 950mm.</td>
-    </tr>
-    <tr>
-      <td style="vertical-align:middle; text-align:center;">0.50≦T≦3.40</td>
-      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
-      <td style="vertical-align:middle; text-align:center;">305 (T≦1.0mm)<br>406 (T≦1.0mm)<br>508</td>
-      <td style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;">5XXX</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
+      <td style="vertical-align:middle; text-align:center;">250≦W≦2000</td>
     </tr>
   </tbody>
 </table>
