@@ -911,7 +911,6 @@ Remark: For O temper, reel marks shall not be cause for rejection.
   <tbody style="vertical-align:middle; text-align:center;">
     <tr><!-- 1XXX-O 3003-O 6061-O -->
       <td rowspan="2" style="vertical-align:middle; text-align:center;">1XXX-O<br>3003-O<br>6061-O</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">Paint sheet</td>
       <td style="vertical-align:middle; text-align:center;">0.3＜T≦0.5</td>
       <td style="vertical-align:middle; text-align:center;">300≦W≦1000</td>
       <td style="vertical-align:middle; text-align:center;">2~3</td>
@@ -924,6 +923,35 @@ Remark: For O temper, reel marks shall not be cause for rejection.
       <td style="vertical-align:middle; text-align:center;">2~3</td>
       <td style="vertical-align:middle; text-align:center;">508</td>
       <td style="vertical-align:middle; text-align:center;">1.Lined with thin paper <br>2. Without paper core</td>
+    </tr>
+    <tr><!-- 1XXX-H1N -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">1XXX-H1N</td>
+      <td style="vertical-align:middle; text-align:center;">0.2≦T≦0.3</td>
+      <td style="vertical-align:middle; text-align:center;">500≦W≦1000</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+      <td style="vertical-align:middle; text-align:center;">With paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.3＜T≦0.8</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦1000</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+      <td style="vertical-align:middle; text-align:center;">With paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.8＜T≦1.2</td>
+      <td style="vertical-align:middle; text-align:center;">400≦W≦880</td>
+      <td style="vertical-align:middle; text-align:center;">2</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
+      <td style="vertical-align:middle; text-align:center;">With paper core</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">1.2＜T≦3.35</td>
+      <td style="vertical-align:middle; text-align:center;">300≦W≦750</td>
+      <td style="vertical-align:middle; text-align:center;">2~3</td>
+      <td style="vertical-align:middle; text-align:center;">508</td>
+      <td style="vertical-align:middle; text-align:center;">Without paper core</td>
     </tr>
   </tbody>
 </table>
