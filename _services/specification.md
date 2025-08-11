@@ -409,6 +409,50 @@ Remark : Alloy 1N30 and 1230A are the same.
 
 ## 3. Plate
 
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Alloy</th>
+      <th>Temper</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Length (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- 1050, 1070, 1100  3003, 3004  5005, 5052, 5456, 5083, 5754 -->
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">1050, 1070, 1100<br>3003, 3004<br>5005, 5052, 5456, 5083, 5754</td>
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">F<br>H112</td>
+      <td style="vertical-align:middle; text-align:center;">6.5≦T≦13.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
+      <td style="vertical-align:middle; text-align:center;">2000≦L≦6000</td>
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">Alloy 1050, 1070, only JIS available</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">13≦T≦20.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">1000≦L≦6000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">20.0≦T≦30.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1525</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">30.0≦T≦40.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1830</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">40.0≦T≦50.0</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">50.0≦T≦300</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
