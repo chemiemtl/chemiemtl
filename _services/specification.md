@@ -551,6 +551,39 @@ Remark : Alloy 1N30 and 1230A are the same.
 Remark 1: The maximum thickness shall be refers to both table 3.1 and applicable specification.<br>
 Remark 2:Laminaion Spec.
 
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Type</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Length (mm)</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- Laminaion Spec -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">Laminaion Spec</td>
+      <td style="vertical-align:middle; text-align:center;">blue film</td>
+      <td style="vertical-align:middle; text-align:center;">3≦T≦12</td>
+      <td style="vertical-align:middle; text-align:center;">1200≦W≦1250</td>
+      <td style="vertical-align:middle; text-align:center;">2000≦L≦6000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">black film</td>
+      <td style="vertical-align:middle; text-align:center;">3≦T≦12</td>
+      <td style="vertical-align:middle; text-align:center;">1200≦W≦1525</td>
+      <td style="vertical-align:middle; text-align:center;">2000≦L≦6000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">black film</td>
+      <td style="vertical-align:middle; text-align:center;">10≦T≦80</td>
+      <td style="vertical-align:middle; text-align:center;">1200≦W≦1525</td>
+      <td style="vertical-align:middle; text-align:center;">2700≦L≦4000</td>
+    </tr>
+    </tbody>
+</table>
+
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
