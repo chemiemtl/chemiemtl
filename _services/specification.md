@@ -534,14 +534,14 @@ Remark : Alloy 1N30 and 1230A are the same.
     </tr>
     <tr><!-- 7075 -->
       <td rowspan="2" style="vertical-align:middle; text-align:center;">7075</td>
-      <tdstyle="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
       <td style="vertical-align:middle; text-align:center;">15.0≦T≦50</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1250</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;"></td>
     </tr>
     <tr>
-      <tdstyle="vertical-align:middle; text-align:center;">T651</td>
+      <td style="vertical-align:middle; text-align:center;">T651</td>
       <td style="vertical-align:middle; text-align:center;">15.0≦T≦100</td>
       <td style="vertical-align:middle; text-align:center;">850≦W≦1250</td>
       <td style="vertical-align:middle; text-align:center;">1000≦L≦4000</td>
