@@ -1117,6 +1117,31 @@ Remark: For O temper, reel marks shall not be cause for rejection.
     <tr>
       <td style="vertical-align:middle; text-align:center;">3104</td>
     </tr>
+    <tr><!-- For laminate used cladding material -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">For laminate used cladding material</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">1100</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">F, H18</td>
+      <td style="vertical-align:middle; text-align:center;">0.08≦T＜0.15</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1500</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305, 508</td>
+      <td rowspan="4" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">0.15≦T≦0.50</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2050</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">3105</td>
+      <td style="vertical-align:middle; text-align:center;">H16, H18</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">850≦W≦2050</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5005</td>
+      <td style="vertical-align:middle; text-align:center;">H14</td>
+    </tr>
   </tbody>
 </table>
 
