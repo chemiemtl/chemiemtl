@@ -588,6 +588,44 @@ Remark 2: Laminaion Spec.
 
 ## 4. Coil Sheet And Flat Sheet
 
+### 4.1 Available Specification, Alloy, Temper &  Thickness of Sheet
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Alloy</th>
+      <th>Temper</th>
+      <th>Thickness (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- 1050,1070,1100, 3003,3004, 5005,5052, 5252,5454, 5754 -->
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">1050,1070,1100,<br>3003,3004,<br>5005,5052,<br>5252,5454, 5754</td>
+      <td style="vertical-align:middle; text-align:center;">F</td>
+      <td style="vertical-align:middle; text-align:center;">0.15≦T≦6.00</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">1. Alloy 1050, 1070, only JIS available<br>2. 1xxx H16, T≧0.18mm<br>3. 1xxx H18, T≧0.15mm</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td style="vertical-align:middle; text-align:center;">0.25≦T≦6.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H14, H34</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦5.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H16, H36</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦3.50</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H18, H38</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦2.20</td>
+    </tr>
+  </tbody>
+</table>
+Remark: For SFQ or higher grade, maximum thickness is 2mm.
+
 ### 4.2 Available Width & Length of Flat Sheet
 
 <table class="custom-table" style="width:100%;">
