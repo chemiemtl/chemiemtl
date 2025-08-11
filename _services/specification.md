@@ -622,6 +622,18 @@ Remark 2: Laminaion Spec.
       <td style="vertical-align:middle; text-align:center;">H18, H38</td>
       <td style="vertical-align:middle; text-align:center;">0.20≦T≦2.20</td>
     </tr>
+    <tr><!-- 1050 -->
+      <td style="vertical-align:middle; text-align:center;">1050</td>
+      <td style="vertical-align:middle; text-align:center;">H24, H26</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦3.00</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- 1070 -->
+      <td style="vertical-align:middle; text-align:center;">1070</td>
+      <td style="vertical-align:middle; text-align:center;">H24, H26</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
   </tbody>
 </table>
 Remark: For SFQ or higher grade, maximum thickness is 2mm.
