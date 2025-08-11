@@ -1034,7 +1034,6 @@ Remark: For O temper, reel marks shall not be cause for rejection.
       <td rowspan="2" style="vertical-align:middle; text-align:center;">End stock</td>
       <td style="vertical-align:middle; text-align:center;">5052</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">H19, H39, H48</td>
-      <td rowspan="2" style="vertical-align:middle; text-align:center;">6.5＜T≦13.0</td>
       <td rowspan="2" style="vertical-align:middle; text-align:center;">0.218≦T≦0.33</td>
       <td style="vertical-align:middle; text-align:center;">250≦W≦2050</td>
       <td rowspan="5" style="vertical-align:middle; text-align:center;">305, 406, 508</td>
