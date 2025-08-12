@@ -1374,8 +1374,29 @@ Remark: For O temper, reel marks shall not be cause for rejection.
       <td style="vertical-align:middle; text-align:center;"></td>
       <td style="vertical-align:middle; text-align:center;"></td>
     </tr>
+    <tr><!-- Color corrugated sheet -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">Color corrugated sheet</td>
+      <td style="vertical-align:middle; text-align:center;">AN01</td>
+      <td style="vertical-align:middle; text-align:center;">H48</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦1.00</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">914≦W≦1300</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">305,406,508</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">AN02</td>
+      <td style="vertical-align:middle; text-align:center;">H44</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦1.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">AN03</td>
+      <td style="vertical-align:middle; text-align:center;">H42</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦1.00</td>
+    </tr>
   </tbody>
 </table>
+Remark 1:ID305 and 406mm is only applicable to thickness 1.0mm or thinner.<br>
+Remark 2:For flat sheet, maximum width is 1820mm.
 
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
