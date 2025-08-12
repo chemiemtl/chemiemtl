@@ -1398,6 +1398,129 @@ Remark: For O temper, reel marks shall not be cause for rejection.
 Remark 1:ID305 and 406mm is only applicable to thickness 1.0mm or thinner.<br>
 Remark 2:For flat sheet, maximum width is 1820mm.
 
+## 6. Marine Plate
+
+<table class="custom-table" style="width:100%;">
+  <thead>
+    <tr>
+      <th>Certification Body</th>
+      <th>Alloy</th>
+      <th>Temper</th>
+      <th>Thickness (mm)</th>
+      <th>Width (mm)</th>
+      <th>Length (mm)</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody style="vertical-align:middle; text-align:center;">
+    <tr><!-- DNV GL Det Norske Veritas Germanischer Lloyd -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">DNV GL<br>Det Norske Veritas Germanischer Lloyd</td>
+      <td style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+      <td rowspan="19" style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+      <td rowspan="19" style="vertical-align:middle; text-align:center;">2000≦L≦9000</td>
+      <td rowspan="19" style="vertical-align:middle; text-align:center;">Allow surface scratches and contamination marks</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5086</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5383</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr><!-- CR Classification Society -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">CR Classification Society</td>
+      <td style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">O, H112, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5086</td>
+      <td style="vertical-align:middle; text-align:center;">O, H112, H116</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5383</td>
+      <td style="vertical-align:middle; text-align:center;">O, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr><!-- BV Bureau Veritas -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">BV<br>Bureau Veritas</td>
+      <td style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5086</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">5383</td>
+      <td style="vertical-align:middle; text-align:center;">O, H116</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H111, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦20.0</td>
+    </tr>
+    <tr><!-- LR Lloyd's Register -->
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">LR<br>Lloyd's Register</td>
+      <td style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5086</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5383</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr><!-- ABS American Bureau of Shipping -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">ABS<br>American Bureau of Shipping</td>
+      <td style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">O, H112, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">5086</td>
+      <td style="vertical-align:middle; text-align:center;">O, H112</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦8.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5383</td>
+      <td style="vertical-align:middle; text-align:center;">O, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr><!-- NK Nippon Kaiji Kyokai -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">NK<br>Nippon Kaiji Kyokai</td>
+      <td style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+    <tr><!-- KR Korean Register -->
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">KR<br>Korean Register</td>
+      <td style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116, H321</td>
+      <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
+    </tr>
+  </tbody>
+</table>
+Remark 1: For Coil, maximum thickness is 8mm.
+Remark 2: 5383 Alloy only for domestic orders
+
 <!-- Commented out for now.
 An aluminum bare coil is an uncoated, mill-finished aluminum coil that retains its natural metallic appearance. It is commonly used in industries like automotive, HVAC, and construction due to its lightweight, corrosion resistance, and excellent thermal and electrical conductivity.
 
