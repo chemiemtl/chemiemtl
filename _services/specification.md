@@ -1231,6 +1231,149 @@ Remark: For O temper, reel marks shall not be cause for rejection.
       <td style="vertical-align:middle; text-align:center;">6M02</td>
       <td style="vertical-align:middle; text-align:center;">T4C</td>
     </tr>
+    <tr><!-- Paint sheet cladding material -->
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">Paint sheet cladding material</td>
+      <td style="vertical-align:middle; text-align:center;">1100</td>
+      <td style="vertical-align:middle; text-align:center;">H18</td>
+      <td style="vertical-align:middle; text-align:center;">0.10≦T＜0.30</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1360</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305, 508</td>
+      <td rowspan="6" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">1100</td>
+      <td style="vertical-align:middle; text-align:center;">H18</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2050</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">3105</td>
+      <td style="vertical-align:middle; text-align:center;">H16</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2050</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">3105</td>
+      <td style="vertical-align:middle; text-align:center;">H18</td>
+      <td style="vertical-align:middle; text-align:center;">0.10≦T＜0.30</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1360</td>
+      <td style="vertical-align:middle; text-align:center;">150, 200, 305, 508</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5005</td>
+      <td style="vertical-align:middle; text-align:center;">H14</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2050</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5052</td>
+      <td style="vertical-align:middle; text-align:center;">H38</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦1.00</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦2050</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+    </tr>
+    <tr><!-- Shielding material for automobile -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Shielding material for automobile</td>
+      <td style="vertical-align:middle; text-align:center;">1050</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">0.40≦T≦1.00</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">850≦W≦2000</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">305,406,508</td>
+      <td rowspan="2" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">3004</td>
+      <td style="vertical-align:middle; text-align:center;">O</td>
+    </tr>
+    <tr><!-- Bumper beam -->
+      <td style="vertical-align:middle; text-align:center;">Bumper beam</td>
+      <td style="vertical-align:middle; text-align:center;">5083</td>
+      <td style="vertical-align:middle; text-align:center;">H24</td>
+      <td style="vertical-align:middle; text-align:center;">2.20≦T≦2.50</td>
+      <td style="vertical-align:middle; text-align:center;">850≦W≦1900</td>
+      <td style="vertical-align:middle; text-align:center;">305, 406, 508, 610</td>
+      <td rowspan="8" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr><!-- Panel for automobile -->
+      <td style="vertical-align:middle; text-align:center;">Panel for automobile</td>
+      <td style="vertical-align:middle; text-align:center;">6016</td>
+      <td style="vertical-align:middle; text-align:center;">T4</td>
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">0.80≦T≦1.20</td>
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">1000≦W≦1900</td>
+      <td rowspan="4" style="vertical-align:middle; text-align:center;">305, 406, 508</td>
+    </tr>
+    <tr><!-- Outer panel for automobile -->
+      <td style="vertical-align:middle; text-align:center;">Outer panel for automobile</td>
+      <td style="vertical-align:middle; text-align:center;">6M02</td>
+      <td style="vertical-align:middle; text-align:center;">T4A</td>
+    </tr>
+    <tr><!-- Inner panel for automobile -->
+      <td style="vertical-align:middle; text-align:center;">Inner panel for automobile</td>
+      <td style="vertical-align:middle; text-align:center;">6M02</td>
+      <td style="vertical-align:middle; text-align:center;">T4B</td>
+    </tr>
+    <tr><!-- Reinforcement parts -->
+      <td style="vertical-align:middle; text-align:center;">Reinforcement parts</td>
+      <td style="vertical-align:middle; text-align:center;">6M02</td>
+      <td style="vertical-align:middle; text-align:center;">T4C</td>
+    </tr>
+    <tr><!-- Inner panel for automobile -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">Inner panel for automobile</td>
+      <td style="vertical-align:middle; text-align:center;">5182</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">0.80≦T≦3.20</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">1000≦W≦1900</td>
+      <td rowspan="3" style="vertical-align:middle; text-align:center;">305,406,508,610</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">5RS2</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111</td>
+    </tr>
+    <tr><!-- Structural parts for automobile -->
+      <td style="vertical-align:middle; text-align:center;">Structural parts for automobile</td>
+      <td style="vertical-align:middle; text-align:center;">5754</td>
+      <td style="vertical-align:middle; text-align:center;">O, H111</td>
+    </tr>
+    <tr><!-- 3C products -->
+      <td rowspan="6" style="vertical-align:middle; text-align:center;">3C products</td>
+      <td style="vertical-align:middle; text-align:center;">TF01</td>
+      <td style="vertical-align:middle; text-align:center;">-</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦1.00</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">850≦W≦1950</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;">305,406,508</td>
+      <td rowspan="5" style="vertical-align:middle; text-align:center;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">TF01-H1</td>
+      <td style="vertical-align:middle; text-align:center;">-</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦1.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">TF01-H2</td>
+      <td style="vertical-align:middle; text-align:center;">-</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦1.00</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">EAC1</td>
+      <td style="vertical-align:middle; text-align:center;">C2</td>
+      <td style="vertical-align:middle; text-align:center;">0.20≦T≦2.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">EAC2</td>
+      <td style="vertical-align:middle; text-align:center;">C8</td>
+      <td style="vertical-align:middle; text-align:center;">0.50≦T≦1.0</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:middle; text-align:center;">EAC5</td>
+      <td style="vertical-align:middle; text-align:center;">C8</td>
+      <td style="vertical-align:middle; text-align:center;">Anodizing use<br>0.40≦T≦1.5<br>Non-anodizing use<br>0.15≦T≦1.5</td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+      <td style="vertical-align:middle; text-align:center;"></td>
+    </tr>
   </tbody>
 </table>
 
