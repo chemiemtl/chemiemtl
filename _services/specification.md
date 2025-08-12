@@ -1505,13 +1505,13 @@ Remark 2:For flat sheet, maximum width is 1820mm.
       <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
     </tr>
     <tr><!-- NK Nippon Kaiji Kyokai -->
-      <td rowspan="4" style="vertical-align:middle; text-align:center;">NK<br>Nippon Kaiji Kyokai</td>
+      <td style="vertical-align:middle; text-align:center;">NK<br>Nippon Kaiji Kyokai</td>
       <td style="vertical-align:middle; text-align:center;">5083</td>
       <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116, H321</td>
       <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
     </tr>
     <tr><!-- KR Korean Register -->
-      <td rowspan="4" style="vertical-align:middle; text-align:center;">KR<br>Korean Register</td>
+      <td style="vertical-align:middle; text-align:center;">KR<br>Korean Register</td>
       <td style="vertical-align:middle; text-align:center;">5083</td>
       <td style="vertical-align:middle; text-align:center;">O, H111, H112, H116, H321</td>
       <td style="vertical-align:middle; text-align:center;">3.0≦T≦50.0</td>
